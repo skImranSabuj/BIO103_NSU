@@ -1,0 +1,62 @@
+🔑 Mapping Breakdown and Questions
+1, 4, 5, 7 → (Lec 1–2)
+- Q1: Define biology and describe the major characteristics of living organisms with suitable examples.
+- Q4: Explain how metabolism is essential for life. Distinguish between anabolism and catabolism.
+- Q5: Describe how living organisms respond to stimuli and adapt to environmental changes.
+- Q7: Discuss the role of energy flow in maintaining life processes.
+
+Lec 3, 8 → 1, 2, 3, 6
+Lec 3
+- Q1: Define taxonomy and explain the purpose of biological classification.
+- Q2: Explain the binomial nomenclature system and describe its rules with examples.
+- Q3: Describe the five-kingdom classification system proposed by Whittaker.
+- Q6: Discuss the importance of classification in biological sciences.
+Lec 8
+- Q1: Explain the cell theory and discuss its importance in biology.
+- Q2: Differentiate between prokaryotic and eukaryotic cells.
+- Q3: Describe the structure and functions of the plasma membrane.
+
+Lec 9 → 2, 3, 5, 6
+- Q2: Explain the role of ribosomes and the endoplasmic reticulum in protein synthesis.
+- Q3: Describe the structure and functions of the Golgi apparatus.
+- Q5: Describe the structure and function of mitochondria and explain their role in cellular respiration.
+- Q6: Explain the structure and function of chloroplasts in photosynthesis.
+
+Lec 5 → 1, 2, 3
+- Q1: Explain the hierarchical organization of life from atom to organism.
+- Q2: Describe how cells form tissues and tissues form organs with examples.
+- Q3: Differentiate between population, community, ecosystem, and biosphere.
+
+Lec 6 → 1, 2, 3, 6
+- Q1: Describe the structure of an atom and explain the roles of protons, neutrons, and electrons.
+- Q2: Explain the concept of atomic number and atomic mass and describe how isotopes differ from each other.
+- Q3: Explain how chemical bonds are formed and describe the characteristics of ionic and covalent bonds.
+- Q6: Describe the difference between polar and nonpolar molecules with examples.
+
+Lec 7 → 1, 2, 3, 4
+- Q1: Explain the difference between monomers and polymers and describe the processes of condensation and hydrolysis reactions.
+- Q2: Describe the structure and biological functions of carbohydrates.
+- Q3: Describe the structure of proteins and explain the role of amino acids as building blocks.
+- Q4: Explain the four levels of protein structure with examples.
+
+Lec 8 → 1, 2
+- Q1: Explain the cell theory and discuss its importance in biology.
+- Q2: Differentiate between prokaryotic and eukaryotic cells.
+
+Lec 9 → 2, 3, 4, 5
+- Q2: Explain the role of ribosomes and the endoplasmic reticulum in protein synthesis.
+- Q3: Describe the structure and functions of the Golgi apparatus.
+- Q4: Explain the functions of lysosomes and peroxisomes in the cell.
+- Q5: Describe the structure and function of mitochondria and explain their role in cellular respiration.
+
+Lec 10 → 1, 2, 4
+- Q1: Explain the Central Dogma of Life and describe how genetic information flows from DNA to protein.
+- Q2: Describe the process of transcription and explain the role of RNA polymerase and mRNA in gene expression.
+- Q4: Compare transcription and translation highlighting their location, main steps, and products.
+
+Lec 11 → 2, 3, 4, 5, 9
+- Q2: Explain the structure of ATP and how ATP stores and releases energy in the cell.
+- Q3: Describe the ATP–ADP cycle and explain its importance in cellular respiration.
+- Q4: Differentiate between aerobic respiration and anaerobic respiration in terms of oxygen requirement and energy production.
+- Q5: Explain why aerobic respiration produces more energy than anaerobic respiration.
+- Q9: Describe the role of chlorophyll and other pigments in photosynthesis.

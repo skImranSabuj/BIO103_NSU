@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "officegen": "^0.6.5",
+    "pdf2json": "^4.0.2"
+  }
+}

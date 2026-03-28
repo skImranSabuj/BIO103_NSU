@@ -1,0 +1,99 @@
+﻿
+--- Slide 1 ---
+BIO-103: Biological Macromolecules Lecture: 07 1 Farhana Easmin, PhD (FHA) Assistant Professor Dept. of Biochemistry and Microbiology North South University
+
+--- Slide 2 ---
+Lecture Outline 2 Introduction &amp; basic terminologies Carbohydrate Protein Lipid Nucleic Acid
+
+--- Slide 3 ---
+Introduction/ at a glance Carbon containing! And the rest! Assembling into complex form Building Blocks of living organism
+
+--- Slide 4 ---
+Terminologies/Definitions Macromolecule: Small molecules assemble in different orientation  to make large molecule or Macromolecules. Example:  Glucose molecules assemble to make cellulose (a carbohydrate) .  4 glucose glucose glucose glucose glucose glucose glucose glucose cellulose
+
+--- Slide 5 ---
+Monomers   are small molecules or building blocks which may be joined together in a repeating fashion to form more complex molecules called polymers. A  polymer   may be a natural or synthetic macromolecule comprised of repeating units of a smaller molecule (monomers). 5 Terminologies/Definitions glucose glucose glucose glucose glucose glucose glucose glucose cellulose glucose Monomer Polymer
+
+--- Slide 6 ---
+6 Terminologies/Definitions Polymerization   is the linking together of monomers to form polymers.  A  condensation  reaction occurs via the loss of a small molecule, usually from two different substances, resulting in the formation of a covalent bond. Need the  Input of  energy 
+
+--- Slide 7 ---
+7 Terminologies/Definitions Hydrolysis ,  which is the reverse of condensation, breaks apart large organic molecules into smaller ones. By breaking the bonds between monomers, Hydrolysis  liberates the energy  that polymers contained during condensation; thus, some of the energy required to polymerize is returned upon hydrolysis. Liberation of  energy  Try to link up with the context of Metabolism that weΓÇÖve learned earlierΓÇª!!!
+
+--- Slide 8 ---
+8 Terminologies/Definitions Proteins Amino acids Lipids Fatty acid and  glycerol Nucleic Acids Nucleotide Macromolecules Building Blocks/monomers
+
+--- Slide 9 ---
+CARBOHYDRATE Common symbol: (CH 2 O) n Most common is Glucose. In glucose, Carbon, Hydrogen and Oxygen makes a molecule of glucose in 1:2:1 ratio. Chemical formula: C 6 H 12 O 6 . or (CH 2 O) 6 Structural materials, storing and transporting energy  Three types:  monosaccharides , oligosaccharides, and polysaccharides. 9
+
+--- Slide 10 ---
+10 Two monosaccharide's will make disaccharide. CARBOHYDRATE Examples: Sucrose ( glucose+fructose ) 	(Table Sugar) Lactose ( glucose+galactose ) 	(Milk Sugar)    Maltose ( glucose+glucose )	 (Barley/ germinating seeds )   Polysaccharides:  Long chains of monosaccharide units bound together 
+
+--- Slide 12 ---
+12
+
+--- Slide 13 ---
+13 Providing energy and regulation Sparing the use of proteins for energy  Preventing ketosis and breakdown  of fatty acids and Biological recognition processes Flavor and Sweeteners  Dietary fiber, which is also a form of carbohydrate, is essential for the elimination of waste materials and toxins from the body Functions of Carbohydrates
+
+--- Slide 14 ---
+14 Most diverse in both structure and function Proteins are the polymers of amino acids Thousands of different kinds of proteins are made from only  twenty  monomers, called  amino acids .  PROTEINS Monomer Polymer
+
+--- Slide 15 ---
+Amino Acids: Building Block of Proteins  Contains an amine group (NH 3 ) (basic/positive)  A carboxyl group ( COOH ) (acidic/negative) One or more atoms called an ΓÇ£R groupΓÇ¥ All three groups are attached to the same carbon atom    Amino acid structure
+
+--- Slide 16 ---
+16 Amino acids are divided into two groups-             Essential:  must be supplied in the diet.           Non-essential:  not supplied in the diet. Amino acids are bonded together by  peptide bonds   to form protein. Amino Acids: Building Block of Proteins
+
+--- Slide 17 ---
+17 Peptide Bonds  The bond that forms between two amino acids is called a  peptide bond . 
+
+--- Slide 18 ---
+18 Levels of protein structure Primary structure:   The linear arrangement of amino acids in a protein Secondary structure:   Areas of folding or coiling within a protein. e.g.  ╬▒ - helices and  ╬▓ - pleated sheets Tertiary structure:    Final three-dimensional structure of a protein, which results from a large number of non-covalent interactions between amino acids. Quaternary structure:   Non-covalent interactions that bind multiple polypeptides into a single, larger protein. e.g. Hemoglobin
+
+--- Slide 19 ---
+19 Levels of protein structure
+
+--- Slide 20 ---
+20 Protein's main function is to build, maintain and repair all our body tissues Protein can also be used as energy source by body Protein acts as  storage material  of food and energy. Many proteins are  enzymes  that catalyze biochemical reactions Proteins are  molecular instrument  through which genetic information is expressed. They act as  antibodies  to prevent disease. The  milk proteins  help the growth of infant mammals. Main functions of proteins Biological functions of proteins For detail functions see the notes underneathΓÇª
+
+--- Slide 21 ---
+21 Composed of Carbon, Hydrogen, and Oxygen Differ from carbohydrates:  no specific ratio (C:H:O) Building blocks are fatty acids and glycerol. Energy storage molecules  ΓÇ£stores the most energyΓÇ¥  2X of Carbohydrates Structurally heterogeneous ,  Not soluble in water Are soluble in hydrophobic solvents . Examples:  1. Fats       2. Oils       3. Phospholipids                          4. Waxes  5. Steroid hormones   6. Triglycerides Lipids
+
+--- Slide 22 ---
+22 Synthesis of triglycerides Fatty acids can be saturated/unsaturated Relate with the melting points and physical statesΓÇªΓÇª.. Higher the un-saturation-lower the melting pointΓÇªΓÇª..
+
+--- Slide 23 ---
+23 Fats Fats are solid at ordinary temperatures. Generally, fats are produced by animals. In animals, fats are stored in adipose cells. Fats are also important as cushions for body organs and as an insulating layer beneath skin. Oils   Oils are liquid at ordinary temperatures. Generally, oils are produced by  plants . Some common  vegetable oils  are peanut, soybean, and corn oil.   Waxes   Both plants and animals produce waxes. The  waxy coating  on some plants leaves is an example of plant waxes.  Beeswax  is an example of a wax produced by an animal.  Recall the saturated and unsaturated FA in this contextΓÇª. 
+
+--- Slide 24 ---
+24 Phospholipids are a variation on the  triacylglycerol  theme in which  One fatty acid is replaced with a phosphate group, which in turn is bound to additional functional groups . Structurally and functionally, the important thing about phospholipids is that  These molecules are simultaneously hydrophobic (at one end, the fatty acid end) and hydrophilic  (at the other end, the phosphate end).  Amphiphile Phospholipids Recall the cell membrane in this contextΓÇª
+
+--- Slide 25 ---
+25
+
+--- Slide 26 ---
+26 All steroids possess a common ring structure. These ring structures vary by attached functional groups. Cholesterol is example of a steroid; cholesterol is a membrane component The common steroid structure is the  basis of sterol hormones including the  human sex hormones  (the estrogens and the  androgens, including     testosterone). Steroids
+
+--- Slide 27 ---
+27 Most of the lipid found in food is in the form of  triacylglycerols , cholesterol and phospholipids A minimum amount of dietary fat is necessary to facilitate absorption of fat-soluble vitamins (A, D, E and K) and  carotenoids Essential Fatty Acids Trans Fat  Nutrition and Health
+
+--- Slide 28 ---
+28 Limit total fat intake to less than 25ΓÇô35% of your total calories each day;  Limit saturated fat intake to less than 7% of total daily calories;  Limit trans fat intake to less than 1% of total daily calories;   The remaining fat should come from sources of monounsaturated and polyunsaturated fats such as nuts, seeds, fish and vegetable oils; and  Limit cholesterol intake to less than 300 mg per day, for most people The fat guidelines
+
+--- Slide 29 ---
+29 Nucleic Acids The chemical link between generations The source of  genetic information in chromosomes Dictate   amino-acid sequence in proteins Simple units called  nucleotides , connected in long chains Nucleic acids  are composed of long chains of  nucleotides  linked by  dehydration synthesis
+
+--- Slide 30 ---
+30 Two types: 		 a. Deoxyribonucleic acid (DNA-double helix) 	   	b. Ribonucleic acid (RNA-single strand) Nucleotides   have 3 parts: 		1-  phosphate group (P) 		2-  pentose sugar (5-carbon)	 		3-  nitrogenous bases: 				 adenine (A) 				 thymine (T) DNA only 				 uracil  (U) RNA only 				 cytosine (C) 				 guanine (G) Nucleic Acids
+
+--- Slide 31 ---
+31 Nucleic Acids The secondary structure is similar to the proteins The concentration of adenine equals that of thymine The concentration of guanine equals that of cytosine Why?
+
+--- Slide 32 ---
+32 Cells Chrom osomes Genes DNA
+
+--- Slide 33 ---
+33 DNA RNA Structural Name: Deoxyribonucleic Acid Ribonucleic Acid Function: Medium of long-term storage and transmission of genetic information Transfer the genetic code needed for the creation of proteins from the nucleus to the ribosome. Without RNA, proteins could never be made. Structure: Typically a double- stranded molecule with a long chain of nucleotides. A single-stranded molecule in most of its biological roles and has a shorter chain of nucleotides. Bases/Sugars:  Long polymer with a  deoxyribose  and phosphate backbone and four different bases: adenine, guanine, cytosine and thymine. Shorter polymer with a ribose and phosphate backbone and four different bases: adenine, guanine, cytosine, and  uracil . Base Pairing: A-T (Adenine-Thymine), G-C (Guanine-Cytosine) A-U (Adenine- Uracil ), G-C (Guanine-Cytosine)
+
+--- Slide 34 ---
+34 Thank you. Any Questions?
