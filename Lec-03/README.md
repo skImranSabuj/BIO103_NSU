@@ -9,7 +9,7 @@
 > **Taxonomy** is the science of **naming and classifying organisms** into groups based on similar characteristics.
 
 - The term comes from Greek: **taxis** ("arrangement") + **nomos** ("law")
-- Taxonomists classify organisms into a **structural hierarchy** — a multi-level system where each group is nested within a larger group.
+- Scientists organize organisms into a **step-by-step system** — small groups fit inside bigger groups, like folders inside folders.
 
 ---
 
@@ -145,7 +145,7 @@ From **smallest to largest:**
 ### ✅ Modern Classification: Phylogenetic System
 
 - **Carl R. Woese** (1977) introduced classification based on **evolutionary (phylogenetic) relationships**
-- Used **ribosomal RNA (rRNA)** analysis — because rRNA shows slight variation from one generation to the next, making it excellent for revealing evolutionary relationships
+- Used **ribosomal RNA (rRNA)** analysis — rRNA changes very slowly over generations, so it's great for finding out which organisms are related
 - Classified all organisms into **three domains:**
 
 | Domain          | Examples                         |

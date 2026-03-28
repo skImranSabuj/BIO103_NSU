@@ -27,8 +27,8 @@ An atom has **three basic parts:**
 - The **center** of an atom is called the **nucleus** — it contains protons and neutrons
 - **Atomic mass** = Protons + Neutrons
 - **Electrons** orbit the nucleus in energy levels (electron cloud)
-- Because **opposites attract**, the negatively charged electrons are held by the positively charged nucleus
-- If **electrons = protons**, the atom has **no net charge** (neutral)
+- Because **opposites attract**, the negative electrons are pulled toward the positive nucleus
+- If the number of **electrons = protons**, the atom is **neutral** (no charge)
 
 ---
 
@@ -103,9 +103,9 @@ An atom has **three basic parts:**
 > Chemical bonds form when atoms **share or transfer electrons** to become more stable.
 
 - Electrons in the **highest energy level** are called **valence electrons**
-- Valence electrons govern an atom's **bonding behavior**
-- Atoms are most stable with a **full valence shell**
-- By moving electrons, two atoms become **linked** — this is **chemical bonding**
+- Valence electrons decide **how an atom bonds** with others
+- Atoms are happiest (most stable) with a **full outer shell**
+- When atoms move or share electrons, they get **linked together** — this is **chemical bonding**
 
 ---
 

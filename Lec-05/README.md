@@ -14,7 +14,7 @@ There are **13 levels of organization** within the hierarchy of life:
 | -------------------- | ------------------------ | -------------------------------------------------------------------------------- |
 | 1. **Atom**          | Non-living               | Smallest and most fundamental unit of matter (protons, neutrons, electrons)      |
 | 2. **Molecule**      | Non-living               | Two or more atoms held together by chemical bonds (e.g., H₂O — water)            |
-| 3. **Macromolecule** | Non-living               | Large molecules formed by polymerization (e.g., DNA, proteins)                   |
+| 3. **Macromolecule** | Non-living               | Very large molecules made by joining smaller ones together (e.g., DNA, proteins) |
 | 4. **Organelle**     | Non-living               | Small parts inside cells that do specific jobs (e.g., nucleus, mitochondria)     |
 | 5. **Cell**          | 🟢 **Life begins here!** | The building block of living things — smallest unit of life                      |
 | 6. **Tissue**        | Living                   | Group of similar cells working together (e.g., nerve tissue, muscle tissue)      |

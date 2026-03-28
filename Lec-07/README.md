@@ -11,7 +11,7 @@
 | **Monomer** | Small molecules or **building blocks** that join together to form larger molecules | Glucose, Amino acids, Nucleotides |
 | **Polymer** | Large molecules (macromolecules) made of **repeating units** of monomers           | Cellulose, Proteins, DNA          |
 
-> **Macromolecule:** Small molecules assemble in different orientations to make large molecules.
+> **Macromolecule:** Small molecules join together in different ways to make very large molecules.
 
 👉 **Example:** Glucose molecules (monomers) assemble to make cellulose (polymer — a carbohydrate)
 

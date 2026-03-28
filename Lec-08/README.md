@@ -89,9 +89,9 @@ Biologists have categorized cells into two general types:
 | Feature          | Detail                                                                                   |
 | ---------------- | ---------------------------------------------------------------------------------------- |
 | **Function**     | Isolates the cell, regulates what enters and leaves, allows interaction with other cells |
-| **Composition**  | Made of **lipids (phospholipids) and proteins**                                          |
-| **Structure**    | **Lipid bilayer** — phospholipids with hydrophilic heads and hydrophobic tails           |
-| **Permeability** | **Selectively permeable** — regulates the cell's molecular traffic                       |
+| **Composition**  | Made of **fats (phospholipids) and proteins**                                            |
+| **Structure**    | **Lipid bilayer** — double fat layer with water-loving heads and water-hating tails      |
+| **Permeability** | **Selectively permeable** — controls what goes in and out of the cell                    |
 
 💡 **Easy idea:**
 

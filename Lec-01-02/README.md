@@ -10,11 +10,11 @@ Biology comes from the Greek words **bios** (life) and **logos** (study/thought)
 
 > **Biology is the science that deals with the study of life.**
 
-In simple words, biology is an attempt to understand, explain, and describe the world of living things.
+In simple words, biology tries to understand and explain everything about living things.
 
-🔁 **Redefined:**
+🔁 **Better definition:**
 
-> Biology is the study of living things and the things that were once alive, together with the matter and energy that surround them.
+> Biology is the study of living things, things that were once alive, and the matter and energy around them.
 
 ---
 
@@ -49,7 +49,7 @@ There are **nine** important characteristics of living things:
 - It **provides energy (ATP)** needed for life
 - Helps in **growth and repair**
 - Maintains **homeostasis** (stable body condition)
-- Includes processes like: Ingestion, Digestion, Assimilation, Respiration, Excretion
+- Includes processes like: eating, digesting, absorbing, breathing, and removing waste
 
 💡 **In easy words:**
 
@@ -138,9 +138,9 @@ Changes in an organism's **environment**.
 
 ### ✅ Adaptation to Environmental Changes
 
-- Living organisms **adapt** to their surroundings through **variation and evolution**.
-- Over time, organisms that are better suited to their environment survive and reproduce (**Survival of the fittest**).
-- **Homeostasis** is the organism's ability to maintain **steady internal conditions** when outside conditions change.
+- Living things **adjust** to their surroundings over time through **changes and evolution**.
+- Organisms that fit their environment better survive and have babies (**Survival of the fittest**).
+- **Homeostasis** means the body keeps itself **stable inside** even when things change outside.
 
 👉 **Example:**
 
