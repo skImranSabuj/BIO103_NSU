@@ -13,13 +13,14 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 | --- | ----------------- | ------------------------------------------------- | -------------------------------------- |
 | 1   | **Lecture 1–2**   | Introduction to Biology & Characteristics of Life | [📖 Open Answers](Lec-01-02/README.md) |
 | 2   | **Lecture 3**     | Biological Classification                         | [📖 Open Answers](Lec-03/README.md)    |
-| 3   | **Lecture 5**     | Organization of Life                              | [📖 Open Answers](Lec-05/README.md)    |
-| 4   | **Lecture 6**     | Chemistry of Life                                 | [📖 Open Answers](Lec-06/README.md)    |
-| 5   | **Lecture 7**     | Biological Macromolecules                         | [📖 Open Answers](Lec-07/README.md)    |
-| 6   | **Lecture 8**     | Cell Structure & Function                         | [📖 Open Answers](Lec-08/README.md)    |
-| 7   | **Lecture 9**     | Cell Organelles                                   | [📖 Open Answers](Lec-09/README.md)    |
-| 8   | **Lecture 10**    | Central Dogma of Life (DNA → RNA → Protein)       | [📖 Open Answers](Lec-10/README.md)    |
-| 9   | **Lecture 11–12** | Energy of Life (ATP, Respiration, Photosynthesis) | [📖 Open Answers](Lec-11-12/README.md) |
+| 3   | **Lecture 4**     | History of Biology                                | [📖 Open Answers](Lec-04/README.md)    |
+| 4   | **Lecture 5**     | Organization of Life                              | [📖 Open Answers](Lec-05/README.md)    |
+| 5   | **Lecture 6**     | Chemistry of Life                                 | [📖 Open Answers](Lec-06/README.md)    |
+| 6   | **Lecture 7**     | Biological Macromolecules                         | [📖 Open Answers](Lec-07/README.md)    |
+| 7   | **Lecture 8**     | Cell Structure & Function                         | [📖 Open Answers](Lec-08/README.md)    |
+| 8   | **Lecture 9**     | Cell Organelles                                   | [📖 Open Answers](Lec-09/README.md)    |
+| 9   | **Lecture 10**    | Central Dogma of Life (DNA → RNA → Protein)       | [📖 Open Answers](Lec-10/README.md)    |
+| 10  | **Lecture 11–12** | Energy of Life (ATP, Respiration, Photosynthesis) | [📖 Open Answers](Lec-11-12/README.md) |
 
 ---
 
@@ -44,6 +45,17 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 | Q2  | [Binomial nomenclature rules & examples](Lec-03/README.md#q2-explain-the-binomial-nomenclature-system-and-describe-its-rules-with-examples) | Two-word Latin name: _Homo sapiens_ (Genus + species) |
 | Q3  | [Five-kingdom classification by Whittaker](Lec-03/README.md#q3-describe-the-five-kingdom-classification-system-proposed-by-whittaker)       | Monera, Protista, Fungi, Plantae, Animalia            |
 | Q6  | [Importance of classification](Lec-03/README.md#q6-discuss-the-importance-of-classification-in-biological-sciences)                         | Organizes diversity, helps research, universal naming |
+
+---
+
+### 📘 [Lecture 4: History of Biology](Lec-04/README.md)
+
+| Q#  | Question                                                                                                                                                                                     | Quick Answer                                                      |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Q2  | [Contributions of Linnaeus in modern taxonomy](Lec-04/README.md#q2-explain-the-major-contributions-of-linnaeus-in-modern-taxonomy)                                                           | Father of Taxonomy — binomial nomenclature, classification system |
+| Q3  | [Robert Hooke & Leeuwenhoek in cell biology](Lec-04/README.md#q3-describe-the-contributions-of-robert-hooke-and-antonie-van-leeuwenhoek-to-the-development-of-cell-biology-and-microbiology) | Hooke discovered cells; Leeuwenhoek = Father of Microbiology      |
+| Q5  | [Harvey & Vesalius in anatomy and physiology](Lec-04/README.md#q5-discuss-the-contributions-of-william-harvey-and-andreas-vesalius-in-understanding-human-anatomy-and-physiology)            | Vesalius = modern anatomy; Harvey = blood circulation             |
+| Q6  | [Genomics and proteomics importance](Lec-04/README.md#q6-explain-the-importance-of-modern-biological-fields-such-as-genomics-and-proteomics)                                                 | Genomics = study all genes; Proteomics = study all proteins       |
 
 ---
 
@@ -155,6 +167,7 @@ BIO103/
 ├── questions.txt           ← Original question mapping
 ├── Lec-01-02/README.md    ← Intro to Biology & Life Characteristics
 ├── Lec-03/README.md       ← Biological Classification
+├── Lec-04/README.md       ← History of Biology
 ├── Lec-05/README.md       ← Organization of Life
 ├── Lec-06/README.md       ← Chemistry of Life
 ├── Lec-07/README.md       ← Biological Macromolecules
