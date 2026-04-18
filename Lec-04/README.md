@@ -226,3 +226,23 @@ DNA (Genomics) → RNA → Proteins (Proteomics) → How our body works
 | Genomics         | Study of all genes (DNA) of an organism                                    |
 | Proteomics       | Study of all proteins of an organism                                       |
 | Modern biology   | Focuses on gene-environment interactions for medicine and research         |
+
+---
+
+## 📝 Exam Style Answers (Concise)
+
+### Q2: Explain major contributions of Linnaeus.
+
+Carl Linnaeus is the father of modern taxonomy. He introduced binomial nomenclature, formalized hierarchical classification, and standardized biological naming using Latin, which made scientific communication universal and precise.
+
+### Q3: Describe contributions of Hooke and Leeuwenhoek.
+
+Robert Hooke first observed cork and coined the term "cell," initiating cell biology. Antonie van Leeuwenhoek first observed living microorganisms and is regarded as the father of microbiology.
+
+### Q5: Discuss contributions of Vesalius and Harvey.
+
+Andreas Vesalius founded modern human anatomy through direct dissection and accurate anatomical description. William Harvey established that blood circulates in a closed system driven by the pumping action of the heart.
+
+### Q6: State the importance of genomics and proteomics.
+
+Genomics studies the complete DNA set of an organism, while proteomics studies the full protein complement. Together, they enable disease mechanism analysis, biomarker discovery, drug development, and personalized medicine.

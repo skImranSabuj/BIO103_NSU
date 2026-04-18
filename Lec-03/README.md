@@ -170,3 +170,23 @@ From **smallest to largest:**
 | Classification Groups | Species → Genus → Family → Order → Class → Phylum → Kingdom    |
 | Importance            | Organization, identification, research, communication          |
 | Phylogenetic System   | Based on rRNA analysis — 3 domains: Archaea, Bacteria, Eukarya |
+
+---
+
+## 📝 Exam Style Answers (Concise)
+
+### Q1: Define taxonomy and state the purpose of classification.
+
+Taxonomy is the branch of biology concerned with identification, naming, and classification of organisms. Classification organizes biodiversity, makes identification easier, shows evolutionary relationships, and provides a universal system for scientific communication.
+
+### Q2: Explain binomial nomenclature with rules.
+
+Binomial nomenclature, introduced by Linnaeus, gives each organism a two-part Latin name: genus and species. The genus starts with a capital letter, species with a lowercase letter, and the full name is italicized in print (or underlined by hand), e.g., Homo sapiens.
+
+### Q3: Describe Whittaker's five-kingdom system.
+
+Whittaker (1969) classified life into Monera, Protista, Fungi, Plantae, and Animalia based on cell type, level of organization, and mode of nutrition. This system improved earlier classifications by clearly separating fungi from plants.
+
+### Q6: Discuss the importance of classification in biology.
+
+Classification is important because it arranges organisms systematically, supports accurate naming and identification, helps in medical and ecological studies, and reveals phylogenetic relationships through modern molecular evidence such as rRNA.

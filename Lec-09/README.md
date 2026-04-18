@@ -241,3 +241,27 @@ Both have similarities with **bacteria** (supporting endosymbiotic theory):
 | Peroxisomes     | Detox center — breaks down fatty acids and toxins    |
 | Mitochondria    | Powerhouse — makes ATP via cellular respiration      |
 | Chloroplasts    | Solar panels — photosynthesis (plants only)          |
+
+---
+
+## 📝 Exam Style Answers (Concise)
+
+### Q2: Explain role of ribosomes and ER in protein synthesis.
+
+Ribosomes are the sites of protein synthesis. Rough ER, studded with ribosomes, synthesizes and processes proteins for secretion or membranes, while smooth ER synthesizes lipids, detoxifies chemicals, and stores calcium.
+
+### Q3: Describe Golgi apparatus structure and functions.
+
+The Golgi apparatus is a stack of flattened membrane sacs that receives vesicles from ER, modifies proteins and lipids, sorts them, and packages them into vesicles for delivery to specific cellular or extracellular destinations.
+
+### Q4: Explain functions of lysosomes and peroxisomes.
+
+Lysosomes contain hydrolytic enzymes for intracellular digestion and recycling of cellular components. Peroxisomes oxidize fatty acids and detoxify harmful compounds, including conversion of hydrogen peroxide into water and oxygen.
+
+### Q5: Describe mitochondria and their role in respiration.
+
+Mitochondria are double-membraned organelles with cristae and their own DNA. They perform aerobic cellular respiration, converting glucose and oxygen into ATP, carbon dioxide, and water.
+
+### Q6: Explain chloroplast structure and function in photosynthesis.
+
+Chloroplasts have a double membrane, stroma, and thylakoids arranged in grana containing chlorophyll. They capture light energy and convert it into chemical energy by synthesizing glucose from carbon dioxide and water, releasing oxygen.

@@ -278,3 +278,27 @@ These pigments **help chlorophyll** by absorbing different colors of light:
 | Chlorophyll             | Green pigment that captures light for photosynthesis          |
 | Accessory pigments      | Carotenes (orange) and Xanthophylls (yellow) help chlorophyll |
 | Photosynthesis          | 6CO₂ + 6H₂O + Light → Glucose + 6O₂                           |
+
+---
+
+## 📝 Exam Style Answers (Concise)
+
+### Q2: Explain ATP structure and energy release.
+
+ATP consists of adenosine attached to three phosphate groups. Energy is stored in phosphate bonds and released when ATP is hydrolyzed to ADP + Pi; this released energy drives cellular work.
+
+### Q3: Describe ATP-ADP cycle and its importance.
+
+The ATP-ADP cycle continuously regenerates ATP from ADP and inorganic phosphate using energy from cellular respiration. It is essential because it provides an immediate and reusable energy-transfer system for all cells.
+
+### Q4: Differentiate aerobic and anaerobic respiration.
+
+Aerobic respiration requires oxygen, completely oxidizes glucose, and yields high ATP (about 38 per glucose). Anaerobic respiration occurs without oxygen, incompletely breaks glucose, and yields low ATP (about 2 per glucose), producing lactic acid or ethanol.
+
+### Q5: Explain why aerobic respiration produces more energy.
+
+Aerobic respiration produces more energy because glucose is fully oxidized and electrons pass through the electron transport chain with oxygen as final acceptor, maximizing ATP production. Anaerobic pathways stop early and leave substantial energy in end products.
+
+### Q9: Describe role of chlorophyll and accessory pigments.
+
+Chlorophyll is the primary pigment that absorbs light (mainly red and blue wavelengths) to initiate photosynthesis. Accessory pigments such as carotenoids broaden the light absorption range and transfer captured energy to chlorophyll.

@@ -204,3 +204,23 @@ Sun → Plants (Photosynthesis) → Glucose → Animals eat plants
 | Metabolism        | All chemical reactions = Anabolism + Catabolism                                         |
 | Stimuli           | Internal (hunger) + External (light)                                                    |
 | Energy Flow       | Sun → Plants → Animals → ATP → Life                                                     |
+
+---
+
+## 📝 Exam Style Answers (Concise)
+
+### Q1: Define biology and describe major characteristics of living organisms.
+
+Biology is the scientific study of life and living organisms. Living things are characterized by cellular organization, reproduction, growth and development, DNA-based heredity, metabolism, energy use, response to stimuli, homeostasis, and adaptation/evolution.
+
+### Q4: Explain metabolism and differentiate anabolism from catabolism.
+
+Metabolism is the sum of all chemical reactions in the body and is essential for energy production, repair, and maintenance. Anabolism builds complex molecules from simple ones and requires energy, while catabolism breaks complex molecules into simpler ones and releases energy.
+
+### Q5: Describe response to stimuli and adaptation.
+
+Organisms respond to internal stimuli (e.g., hunger, pain) and external stimuli (e.g., light, temperature). Adaptation is a long-term evolutionary adjustment that improves survival in a specific environment; homeostasis supports short-term internal balance.
+
+### Q7: Discuss the role of energy flow in life processes.
+
+Energy flow sustains life: sunlight is captured by plants through photosynthesis, transferred through food chains, and converted into ATP by cellular respiration. ATP powers all cellular activities including transport, synthesis, movement, and growth.

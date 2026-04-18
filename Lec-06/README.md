@@ -221,3 +221,23 @@ An atom has **three basic parts:**
 | Covalent bond      | Sharing of electrons                     |
 | Polar molecules    | Unequal sharing (e.g., water)            |
 | Nonpolar molecules | Equal sharing (e.g., oil)                |
+
+---
+
+## 📝 Exam Style Answers (Concise)
+
+### Q1: Describe atom structure and roles of subatomic particles.
+
+An atom consists of a central nucleus containing protons and neutrons, with electrons arranged in energy levels around it. Protons determine elemental identity, neutrons contribute mass and stability, and electrons participate in bonding and chemical reactions.
+
+### Q2: Explain atomic number, atomic mass, and isotopes.
+
+Atomic number equals the number of protons. Atomic mass (mass number) equals protons plus neutrons. Isotopes are atoms of the same element with identical proton number but different neutron number, so they differ in mass; some isotopes are radioactive.
+
+### Q3: Explain ionic and covalent bonds.
+
+Chemical bonds form through electron transfer or sharing to achieve stability. Ionic bonds involve electron transfer and produce oppositely charged ions (e.g., NaCl). Covalent bonds involve electron sharing between atoms (e.g., H2O, CH4).
+
+### Q6: Differentiate polar and nonpolar molecules.
+
+Polar molecules result from unequal electron sharing and have partial charges, so they are generally hydrophilic (e.g., water). Nonpolar molecules have equal sharing with no partial charges and are generally hydrophobic (e.g., oils, O2).

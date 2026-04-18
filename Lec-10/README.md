@@ -165,3 +165,19 @@ Protein (chain of amino acids)
 | Translation   | mRNA is read to build protein (in cytoplasm, at ribosome) |
 | mRNA          | Messenger that carries gene info from nucleus to ribosome |
 | Codon         | Group of 3 mRNA letters = 1 amino acid                    |
+
+---
+
+## 📝 Exam Style Answers (Concise)
+
+### Q1: Explain the central dogma of life.
+
+The central dogma describes directional flow of genetic information: DNA is transcribed into RNA, and RNA is translated into protein. This process links genes to expressed traits and cellular functions.
+
+### Q2: Describe transcription and roles of RNA polymerase and mRNA.
+
+Transcription is the synthesis of mRNA from a DNA template in the nucleus. RNA polymerase binds the gene, reads the DNA strand, and forms complementary mRNA, which carries the genetic message to the cytoplasm for protein synthesis.
+
+### Q4: Compare transcription and translation.
+
+Transcription occurs in the nucleus and produces mRNA from DNA. Translation occurs at ribosomes in the cytoplasm and produces a polypeptide by reading mRNA codons and joining amino acids in sequence.
