@@ -36,6 +36,23 @@ There are **nine** important characteristics of living things:
 
 💡 **Easy to remember:** Living things are made of cells, reproduce, grow, use DNA, need energy, respond to stimuli, maintain balance, have metabolism, and adapt over time.
 
+### 📝 Exam Style Answer
+
+Biology is the scientific study of life and living organisms.
+
+Major characteristics of living organisms:
+
+- Made of cells
+- Reproduction
+- Growth and development
+- DNA-based heredity
+- Energy use and metabolism
+- Response to stimuli
+- Homeostasis
+- Adaptation and evolution
+
+Summary: Life is defined by organized cellular structure, energy processing, regulation, and continuity through reproduction and evolution.
+
 ---
 
 ## Q4: Explain how metabolism is essential for life. Distinguish between anabolism and catabolism.
@@ -100,6 +117,15 @@ There are **nine** important characteristics of living things:
 
 > **Metabolism = Anabolism (build) + Catabolism (break)**
 
+### 📝 Exam Style Answer
+
+Metabolism is the sum of all chemical reactions in the body and is essential for life because it provides energy, supports growth, and maintains internal balance.
+
+Anabolism: Builds complex molecules from simple ones and requires energy.  
+Catabolism: Breaks complex molecules into simpler ones and releases energy.
+
+Summary: Metabolism includes both energy-consuming synthesis and energy-releasing breakdown.
+
 ---
 
 ## Q5: Describe how living organisms respond to stimuli and adapt to environmental changes.
@@ -152,6 +178,13 @@ Changes in an organism's **environment**.
 
 > Response to stimuli = reacting to changes. Adaptation = long-term adjustment for survival.
 
+### 📝 Exam Style Answer
+
+Organisms respond to internal stimuli (e.g., hunger, pain) and external stimuli (e.g., light, temperature).
+Adaptation is a long-term evolutionary change that improves survival in a particular environment.
+
+Summary: Stimulus response is immediate regulation; adaptation is long-term survival adjustment.
+
 ---
 
 ## Q7: Discuss the role of energy flow in maintaining life processes.
@@ -193,6 +226,13 @@ Sun → Plants (Photosynthesis) → Glucose → Animals eat plants
 
 > Energy flows: Sun → Plants → Animals → Cells → ATP → Life processes. Without this flow, life cannot exist.
 
+### 📝 Exam Style Answer
+
+Energy flow maintains life by transferring energy from the sun to producers, then to consumers through food chains.
+Cells convert this energy into ATP via cellular respiration, and ATP powers all biological activities.
+
+Summary: Continuous energy flow and ATP production are essential for all life processes.
+
 ---
 
 ### 🎯 Summary of Lecture 1–2
@@ -204,23 +244,3 @@ Sun → Plants (Photosynthesis) → Glucose → Animals eat plants
 | Metabolism        | All chemical reactions = Anabolism + Catabolism                                         |
 | Stimuli           | Internal (hunger) + External (light)                                                    |
 | Energy Flow       | Sun → Plants → Animals → ATP → Life                                                     |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q1: Define biology and describe major characteristics of living organisms.
-
-Biology is the scientific study of life and living organisms. Living things are characterized by cellular organization, reproduction, growth and development, DNA-based heredity, metabolism, energy use, response to stimuli, homeostasis, and adaptation/evolution.
-
-### Q4: Explain metabolism and differentiate anabolism from catabolism.
-
-Metabolism is the sum of all chemical reactions in the body and is essential for energy production, repair, and maintenance. Anabolism builds complex molecules from simple ones and requires energy, while catabolism breaks complex molecules into simpler ones and releases energy.
-
-### Q5: Describe response to stimuli and adaptation.
-
-Organisms respond to internal stimuli (e.g., hunger, pain) and external stimuli (e.g., light, temperature). Adaptation is a long-term evolutionary adjustment that improves survival in a specific environment; homeostasis supports short-term internal balance.
-
-### Q7: Discuss the role of energy flow in life processes.
-
-Energy flow sustains life: sunlight is captured by plants through photosynthesis, transferred through food chains, and converted into ATP by cellular respiration. ATP powers all cellular activities including transport, synthesis, movement, and growth.

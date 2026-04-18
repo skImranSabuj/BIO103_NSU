@@ -42,6 +42,16 @@
 
 > Before Linnaeus, naming organisms was a mess — every country used different names. Linnaeus fixed this by giving every organism a **two-word Latin name** that all scientists could understand. He's basically the person who organized the entire living world!
 
+### 📝 Exam Style Answer
+
+Major contributions of Linnaeus:
+
+- Introduced binomial nomenclature (Genus + species)
+- Developed hierarchical classification
+- Standardized Latin scientific naming
+
+Summary: Linnaeus laid the foundation of modern taxonomy and universal biological naming.
+
 ---
 
 ## Q3: Describe the contributions of Robert Hooke and Antonie van Leeuwenhoek to the development of cell biology and microbiology.
@@ -95,6 +105,13 @@
 
 > Hooke saw the **empty rooms** (dead cells). Leeuwenhoek saw the **tiny living creatures** inside those rooms. Together, they built the foundation for how we understand cells and microbes today.
 
+### 📝 Exam Style Answer
+
+Robert Hooke observed cork and coined the term "cell," initiating cell biology.
+Antonie van Leeuwenhoek first observed living microorganisms using improved microscopes and is known as the father of microbiology.
+
+Summary: Hooke introduced the cell concept; Leeuwenhoek revealed the microbial world.
+
 ---
 
 ## Q5: Discuss the contributions of William Harvey and Andreas Vesalius in understanding human anatomy and physiology.
@@ -143,6 +160,13 @@
 💡 **Easy idea:**
 
 > **Vesalius** showed us **what the body looks like inside** (anatomy). **Harvey** showed us **how the body works** (physiology — especially how blood moves). Both used real observation instead of just believing old books.
+
+### 📝 Exam Style Answer
+
+Andreas Vesalius advanced human anatomy through direct dissection and corrected major classical errors.
+William Harvey explained blood circulation and proved the heart pumps blood in a closed system.
+
+Summary: Vesalius established modern anatomy, while Harvey established modern circulatory physiology.
 
 ---
 
@@ -212,6 +236,19 @@ DNA (Genomics) → RNA → Proteins (Proteomics) → How our body works
 
 > **Genomics** = studying the **instruction book** (DNA/genes). **Proteomics** = studying the **workers** (proteins) that carry out those instructions. Together, they help us understand diseases, create better medicines, and learn what makes every living thing unique.
 
+### 📝 Exam Style Answer
+
+Genomics studies the complete set of genes (DNA), while proteomics studies the complete set of proteins.
+
+Importance:
+
+- Understanding disease mechanisms
+- Identifying biomarkers
+- Drug target discovery
+- Personalized medicine
+
+Summary: Genomics and proteomics are core modern fields for advanced diagnosis and treatment.
+
 ---
 
 ### 🎯 Summary of Lecture 4
@@ -226,23 +263,3 @@ DNA (Genomics) → RNA → Proteins (Proteomics) → How our body works
 | Genomics         | Study of all genes (DNA) of an organism                                    |
 | Proteomics       | Study of all proteins of an organism                                       |
 | Modern biology   | Focuses on gene-environment interactions for medicine and research         |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q2: Explain major contributions of Linnaeus.
-
-Carl Linnaeus is the father of modern taxonomy. He introduced binomial nomenclature, formalized hierarchical classification, and standardized biological naming using Latin, which made scientific communication universal and precise.
-
-### Q3: Describe contributions of Hooke and Leeuwenhoek.
-
-Robert Hooke first observed cork and coined the term "cell," initiating cell biology. Antonie van Leeuwenhoek first observed living microorganisms and is regarded as the father of microbiology.
-
-### Q5: Discuss contributions of Vesalius and Harvey.
-
-Andreas Vesalius founded modern human anatomy through direct dissection and accurate anatomical description. William Harvey established that blood circulates in a closed system driven by the pumping action of the heart.
-
-### Q6: State the importance of genomics and proteomics.
-
-Genomics studies the complete DNA set of an organism, while proteomics studies the full protein complement. Together, they enable disease mechanism analysis, biomarker discovery, drug development, and personalized medicine.

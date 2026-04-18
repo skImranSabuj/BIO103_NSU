@@ -60,6 +60,13 @@ ADP + P + Energy (from food) → ATP (recharged)
 
 > ATP is like a **charged phone battery**. When you use it, energy is released (ATP → ADP). When you charge it again with food energy, it becomes ATP again. This cycle never stops!
 
+### 📝 Exam Style Answer
+
+ATP (adenosine triphosphate) consists of adenosine and three phosphate groups.
+Energy is stored in high-energy phosphate bonds and released when ATP is hydrolyzed to ADP + Pi.
+
+Summary: ATP is the immediate energy currency of the cell.
+
 ---
 
 ## Q3: Describe the ATP–ADP cycle and explain its importance in cellular respiration.
@@ -107,6 +114,13 @@ Glucose + 6O₂ + 38 ADP + 38 P → 6CO₂ + 6H₂O + 38 ATP
 💡 **Easy idea:**
 
 > The ATP-ADP cycle is like a **rechargeable battery system**. Food charges the battery (ADP → ATP), cells use the battery (ATP → ADP), and the cycle repeats forever.
+
+### 📝 Exam Style Answer
+
+The ATP-ADP cycle is continuous regeneration of ATP from ADP + Pi using energy from cellular respiration.
+Cells then hydrolyze ATP to release energy for metabolic work.
+
+Summary: This cycle ensures a constant and reusable cellular energy supply.
 
 ---
 
@@ -163,6 +177,13 @@ In simple words: cells "burn" glucose to get energy (ATP).
 | **Products**     | CO₂ + H₂O                | Ethanol or Lactic acid |
 | **Bonds broken** | All glucose bonds broken | Not all bonds broken   |
 
+### 📝 Exam Style Answer
+
+Aerobic respiration requires oxygen and completely breaks down glucose, producing about 38 ATP.
+Anaerobic respiration occurs without oxygen, partially breaks down glucose, and produces about 2 ATP, with lactic acid or ethanol as byproducts.
+
+Summary: Aerobic respiration yields much more energy than anaerobic respiration.
+
 ---
 
 ## Q5: Explain why aerobic respiration produces more energy than anaerobic respiration.
@@ -187,6 +208,13 @@ In simple words: cells "burn" glucose to get energy (ATP).
 💡 **Easy idea:**
 
 > Think of burning wood: **Aerobic** = burning the wood completely (lots of heat). **Anaerobic** = burning only half the wood (less heat, leftover pieces still have energy). That's why aerobic gives 38 ATP vs only 2 ATP.
+
+### 📝 Exam Style Answer
+
+Aerobic respiration produces more ATP because glucose is fully oxidized and electrons pass through the electron transport chain with oxygen as final electron acceptor.
+Anaerobic pathways are incomplete, so much potential energy remains in end products.
+
+Summary: Complete oxidation in aerobic pathways maximizes ATP yield.
 
 ---
 
@@ -263,6 +291,13 @@ These pigments **help chlorophyll** by absorbing different colors of light:
 
 > Chlorophyll is the **green "solar panel"** that catches sunlight. Other pigments are its **assistants** that catch extra colors of light. Together, they power photosynthesis to make food (glucose) for the plant.
 
+### 📝 Exam Style Answer
+
+Chlorophyll is the main photosynthetic pigment that absorbs light energy (especially red and blue wavelengths).
+Accessory pigments such as carotenoids absorb additional wavelengths and transfer that energy to chlorophyll.
+
+Summary: Chlorophyll and accessory pigments together maximize light capture for photosynthesis.
+
 ---
 
 ### 🎯 Summary of Lecture 11–12
@@ -278,27 +313,3 @@ These pigments **help chlorophyll** by absorbing different colors of light:
 | Chlorophyll             | Green pigment that captures light for photosynthesis          |
 | Accessory pigments      | Carotenes (orange) and Xanthophylls (yellow) help chlorophyll |
 | Photosynthesis          | 6CO₂ + 6H₂O + Light → Glucose + 6O₂                           |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q2: Explain ATP structure and energy release.
-
-ATP consists of adenosine attached to three phosphate groups. Energy is stored in phosphate bonds and released when ATP is hydrolyzed to ADP + Pi; this released energy drives cellular work.
-
-### Q3: Describe ATP-ADP cycle and its importance.
-
-The ATP-ADP cycle continuously regenerates ATP from ADP and inorganic phosphate using energy from cellular respiration. It is essential because it provides an immediate and reusable energy-transfer system for all cells.
-
-### Q4: Differentiate aerobic and anaerobic respiration.
-
-Aerobic respiration requires oxygen, completely oxidizes glucose, and yields high ATP (about 38 per glucose). Anaerobic respiration occurs without oxygen, incompletely breaks glucose, and yields low ATP (about 2 per glucose), producing lactic acid or ethanol.
-
-### Q5: Explain why aerobic respiration produces more energy.
-
-Aerobic respiration produces more energy because glucose is fully oxidized and electrons pass through the electron transport chain with oxygen as final acceptor, maximizing ATP production. Anaerobic pathways stop early and leave substantial energy in end products.
-
-### Q9: Describe role of chlorophyll and accessory pigments.
-
-Chlorophyll is the primary pigment that absorbs light (mainly red and blue wavelengths) to initiate photosynthesis. Accessory pigments such as carotenoids broaden the light absorption range and transfer captured energy to chlorophyll.

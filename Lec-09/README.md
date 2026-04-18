@@ -49,6 +49,14 @@ DNA (in nucleus) → mRNA → Ribosomes on Rough ER → Protein made
 
 > Ribosomes are the "protein factories." Rough ER is the "assembly line" where proteins are made and packaged. Smooth ER makes lipids and detoxifies.
 
+### 📝 Exam Style Answer
+
+Ribosomes are the sites of protein synthesis.
+Rough ER (with ribosomes) synthesizes and modifies proteins for transport or secretion.
+Smooth ER (without ribosomes) synthesizes lipids, detoxifies substances, and stores calcium.
+
+Summary: Ribosomes make proteins; ER processes and routes them.
+
 ---
 
 ## Q3: Describe the structure and functions of the Golgi apparatus.
@@ -85,6 +93,13 @@ Rough ER → Vesicles → Golgi Body (modify & package) → Vesicles → Final d
 💡 **Easy idea:**
 
 > The Golgi apparatus is like a **post office** — it receives packages (proteins from ER), processes them, labels them, and ships them to the right address.
+
+### 📝 Exam Style Answer
+
+The Golgi apparatus is composed of stacked flattened sacs.
+It receives materials from ER, modifies proteins/lipids, sorts them, packages them into vesicles, and sends them to target locations.
+
+Summary: Golgi is the processing and distribution center of the cell.
 
 ---
 
@@ -132,6 +147,13 @@ Rough ER → Vesicles → Golgi Body (modify & package) → Vesicles → Final d
 | **Special role**  | Intracellular digestion                           | Converts H₂O₂ → H₂O + O₂            |
 | **Budding from**  | Golgi body                                        | Self-replicating                    |
 
+### 📝 Exam Style Answer
+
+Lysosomes contain hydrolytic enzymes for intracellular digestion and recycling of damaged cell components.
+Peroxisomes contain oxidative enzymes that break down fatty acids and detoxify harmful substances, including hydrogen peroxide.
+
+Summary: Lysosomes digest and recycle; peroxisomes detoxify and oxidize.
+
 ---
 
 ## Q5: Describe the structure and function of mitochondria and explain their role in cellular respiration.
@@ -171,6 +193,13 @@ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 38 ATP
 💡 **Easy idea:**
 
 > Mitochondria = the **"powerhouse of the cell"** — they burn glucose to make ATP energy, just like a power plant burns fuel to make electricity.
+
+### 📝 Exam Style Answer
+
+Mitochondria are double-membraned organelles with inner folds (cristae) and their own DNA.
+They are the site of aerobic respiration, producing ATP by oxidizing glucose in the presence of oxygen.
+
+Summary: Mitochondria generate most cellular ATP through respiration.
 
 ---
 
@@ -227,6 +256,13 @@ Both have similarities with **bacteria** (supporting endosymbiotic theory):
 
 > Chloroplasts = the **"solar panels of the cell"** — they capture sunlight and convert it into food (glucose) through photosynthesis.
 
+### 📝 Exam Style Answer
+
+Chloroplasts have a double membrane, stroma, and thylakoids arranged in grana containing chlorophyll.
+They perform photosynthesis by capturing light energy and producing glucose from CO2 and water, releasing oxygen.
+
+Summary: Chloroplasts convert solar energy into chemical energy.
+
 ---
 
 ### 🎯 Summary of Lecture 9
@@ -241,27 +277,3 @@ Both have similarities with **bacteria** (supporting endosymbiotic theory):
 | Peroxisomes     | Detox center — breaks down fatty acids and toxins    |
 | Mitochondria    | Powerhouse — makes ATP via cellular respiration      |
 | Chloroplasts    | Solar panels — photosynthesis (plants only)          |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q2: Explain role of ribosomes and ER in protein synthesis.
-
-Ribosomes are the sites of protein synthesis. Rough ER, studded with ribosomes, synthesizes and processes proteins for secretion or membranes, while smooth ER synthesizes lipids, detoxifies chemicals, and stores calcium.
-
-### Q3: Describe Golgi apparatus structure and functions.
-
-The Golgi apparatus is a stack of flattened membrane sacs that receives vesicles from ER, modifies proteins and lipids, sorts them, and packages them into vesicles for delivery to specific cellular or extracellular destinations.
-
-### Q4: Explain functions of lysosomes and peroxisomes.
-
-Lysosomes contain hydrolytic enzymes for intracellular digestion and recycling of cellular components. Peroxisomes oxidize fatty acids and detoxify harmful compounds, including conversion of hydrogen peroxide into water and oxygen.
-
-### Q5: Describe mitochondria and their role in respiration.
-
-Mitochondria are double-membraned organelles with cristae and their own DNA. They perform aerobic cellular respiration, converting glucose and oxygen into ATP, carbon dioxide, and water.
-
-### Q6: Explain chloroplast structure and function in photosynthesis.
-
-Chloroplasts have a double membrane, stroma, and thylakoids arranged in grana containing chlorophyll. They capture light energy and convert it into chemical energy by synthesizing glucose from carbon dioxide and water, releasing oxygen.

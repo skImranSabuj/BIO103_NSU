@@ -45,6 +45,16 @@ An atom has **three basic parts:**
 
 > An atom is like a tiny solar system — the nucleus (sun) is in the center with protons and neutrons, and electrons (planets) spin around it in different energy levels.
 
+### 📝 Exam Style Answer
+
+An atom consists of a central nucleus containing protons and neutrons, with electrons arranged in energy levels around it.
+
+Proton: Positively charged particle; determines atomic number and identity of the element.  
+Neutron: Neutral particle; contributes to atomic mass and nuclear stability.  
+Electron: Negatively charged particle in energy levels; involved in bonding and chemical reactions.
+
+Summary: Atom = nucleus (protons + neutrons) with electrons around it.
+
 ---
 
 ## Q2: Explain the concept of atomic number and atomic mass and describe how isotopes differ from each other.
@@ -93,6 +103,15 @@ An atom has **three basic parts:**
 💡 **Easy idea:**
 
 > Isotopes are like siblings — same family (same element, same protons) but different weight (different neutrons). Some unstable ones are "radioactive."
+
+### 📝 Exam Style Answer
+
+Atomic number: Number of protons in the nucleus.  
+Atomic mass (mass number): Protons + neutrons.
+
+Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons, so their masses differ.
+
+Summary: Same protons = same element; different neutrons = different isotope.
 
 ---
 
@@ -164,6 +183,15 @@ An atom has **three basic parts:**
 
 > Ionic = one gives, one takes. Covalent = both share. Hydrogen = weak attraction between molecules.
 
+### 📝 Exam Style Answer
+
+Chemical bonds are formed when atoms transfer or share valence electrons to become stable.
+
+Ionic bond: Electron transfer from one atom to another, producing oppositely charged ions (e.g., NaCl).  
+Covalent bond: Electron sharing between atoms (e.g., H2O, CH4).
+
+Summary: Ionic = transfer; Covalent = sharing.
+
 ---
 
 ## Q6: Describe the difference between polar and nonpolar molecules with examples.
@@ -207,6 +235,13 @@ An atom has **three basic parts:**
 
 > Polar = uneven sharing (like two friends sharing candy unfairly). Nonpolar = even sharing (exactly 50-50).
 
+### 📝 Exam Style Answer
+
+Polar molecules form when electrons are shared unequally, creating partial charges (e.g., water).  
+Nonpolar molecules form when electrons are shared equally, with no partial charges (e.g., oils, O2).
+
+Summary: Polar = unequal sharing and partial charges; Nonpolar = equal sharing and no partial charges.
+
 ---
 
 ### 🎯 Summary of Lecture 6
@@ -221,23 +256,3 @@ An atom has **three basic parts:**
 | Covalent bond      | Sharing of electrons                     |
 | Polar molecules    | Unequal sharing (e.g., water)            |
 | Nonpolar molecules | Equal sharing (e.g., oil)                |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q1: Describe atom structure and roles of subatomic particles.
-
-An atom consists of a central nucleus containing protons and neutrons, with electrons arranged in energy levels around it. Protons determine elemental identity, neutrons contribute mass and stability, and electrons participate in bonding and chemical reactions.
-
-### Q2: Explain atomic number, atomic mass, and isotopes.
-
-Atomic number equals the number of protons. Atomic mass (mass number) equals protons plus neutrons. Isotopes are atoms of the same element with identical proton number but different neutron number, so they differ in mass; some isotopes are radioactive.
-
-### Q3: Explain ionic and covalent bonds.
-
-Chemical bonds form through electron transfer or sharing to achieve stability. Ionic bonds involve electron transfer and produce oppositely charged ions (e.g., NaCl). Covalent bonds involve electron sharing between atoms (e.g., H2O, CH4).
-
-### Q6: Differentiate polar and nonpolar molecules.
-
-Polar molecules result from unequal electron sharing and have partial charges, so they are generally hydrophilic (e.g., water). Nonpolar molecules have equal sharing with no partial charges and are generally hydrophobic (e.g., oils, O2).

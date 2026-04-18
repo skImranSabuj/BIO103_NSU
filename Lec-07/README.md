@@ -64,6 +64,15 @@
 
 > Condensation = Anabolism (building). Hydrolysis = Catabolism (breaking).
 
+### 📝 Exam Style Answer
+
+Monomers are small building units, while polymers are large molecules made of repeating monomers.
+
+Condensation reaction: joins monomers, releases water, and needs energy.  
+Hydrolysis reaction: breaks polymers into monomers using water.
+
+Summary: Condensation builds; hydrolysis breaks.
+
 ---
 
 ## Q2: Describe the structure and biological functions of carbohydrates.
@@ -118,6 +127,20 @@
 
 > Carbohydrates = sugars and starches = quick energy food for cells!
 
+### 📝 Exam Style Answer
+
+Carbohydrates are organic molecules made of C, H, and O, usually in a 1:2:1 ratio.
+
+Types:
+
+- Monosaccharides (single sugars)
+- Disaccharides (double sugars)
+- Polysaccharides (complex chains)
+
+Functions: immediate energy, energy storage, structural support, and cell recognition.
+
+Summary: Carbohydrates are key energy and structural biomolecules.
+
 ---
 
 ## Q3: Describe the structure of proteins and explain the role of amino acids as building blocks.
@@ -164,6 +187,13 @@ Each amino acid contains:
 
 > Amino acids are like LEGO bricks. Different combinations of 20 types make thousands of different proteins.
 
+### 📝 Exam Style Answer
+
+Proteins are polymers of amino acids linked by peptide bonds.
+Each amino acid has an amino group, carboxyl group, hydrogen, and variable R group on a central carbon.
+
+Summary: Amino acids are the building blocks that determine protein structure and function.
+
 ---
 
 ## Q4: Explain the four levels of protein structure with examples.
@@ -204,6 +234,17 @@ Primary → Secondary → Tertiary → Quaternary
 
 > Primary = sequence of beads on a string. Secondary = string coils or folds. Tertiary = whole string crumpled into a ball. Quaternary = multiple balls joined together.
 
+### 📝 Exam Style Answer
+
+Protein structure has four levels:
+
+- Primary: amino acid sequence
+- Secondary: local folding (alpha-helix, beta-sheet)
+- Tertiary: overall 3D shape of one polypeptide
+- Quaternary: association of multiple polypeptides
+
+Summary: Protein function depends on its final hierarchical structure.
+
 ---
 
 ### 🎯 Summary of Lecture 7
@@ -216,23 +257,3 @@ Primary → Secondary → Tertiary → Quaternary
 | Carbohydrates      | C:H:O in 1:2:1 ratio, energy source                   |
 | Proteins           | Polymers of 20 amino acids, joined by peptide bonds   |
 | Protein structure  | 4 levels: Primary → Secondary → Tertiary → Quaternary |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q1: Differentiate monomers and polymers; explain condensation and hydrolysis.
-
-Monomers are small repeating units, while polymers are large molecules formed by many monomers. Condensation (dehydration synthesis) joins monomers by removing water and requires energy. Hydrolysis breaks polymers into monomers by adding water and releases usable energy.
-
-### Q2: Describe carbohydrate structure and functions.
-
-Carbohydrates are composed of carbon, hydrogen, and oxygen in approximately 1:2:1 ratio. They occur as monosaccharides, disaccharides, and polysaccharides, and function in rapid energy supply, energy storage, structural support (cellulose), and biological recognition.
-
-### Q3: Describe protein structure and role of amino acids.
-
-Proteins are polymers made of amino acids linked by peptide bonds. Amino acids serve as fundamental building blocks, and variation in amino acid sequence produces proteins with different structures and functions.
-
-### Q4: Explain the four levels of protein structure.
-
-Primary structure is the amino acid sequence. Secondary structure involves local folding into alpha-helices or beta-sheets. Tertiary structure is the overall 3D conformation of one polypeptide. Quaternary structure is the association of multiple polypeptide chains into one functional protein.

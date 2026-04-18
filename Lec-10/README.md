@@ -45,6 +45,16 @@ DNA → RNA → Protein
 
 > DNA is the master plan that stays safe in the nucleus. RNA makes a copy and takes it to the ribosome, where the protein is built. Think: **DNA → RNA → Protein**.
 
+### 📝 Exam Style Answer
+
+Central dogma explains the flow of genetic information as:
+
+DNA → RNA → Protein
+
+DNA stores hereditary information, RNA carries the message, and proteins are the functional products.
+
+Summary: Genetic instructions are expressed through transcription and translation.
+
 ---
 
 ## Q2: Describe the process of transcription and explain the role of RNA polymerase and mRNA in gene expression.
@@ -89,6 +99,15 @@ Think of it as **"writing a note from a book"** — you copy the important instr
 💡 **Easy idea:**
 
 > RNA polymerase is like a **photocopy machine** that reads the DNA book and creates an mRNA note. The mRNA note then travels to the cytoplasm where proteins are made.
+
+### 📝 Exam Style Answer
+
+Transcription is the process of synthesizing mRNA from a DNA template in the nucleus.
+
+RNA polymerase binds DNA, unwinds it locally, and builds complementary mRNA.
+mRNA then carries this genetic message to ribosomes for protein synthesis.
+
+Summary: RNA polymerase makes mRNA, and mRNA delivers gene information for expression.
 
 ---
 
@@ -154,6 +173,15 @@ Protein (chain of amino acids)
 
 > Transcription = copying (DNA → mRNA in the nucleus). Translation = building (mRNA → Protein at the ribosome). Together they turn genetic instructions into working proteins.
 
+### 📝 Exam Style Answer
+
+Transcription and translation differ as follows:
+
+- Transcription: DNA → mRNA, occurs in nucleus, product is mRNA
+- Translation: mRNA → protein, occurs at ribosomes in cytoplasm, product is polypeptide
+
+Summary: Transcription copies genetic information; translation converts that information into proteins.
+
 ---
 
 ### 🎯 Summary of Lecture 10
@@ -165,19 +193,3 @@ Protein (chain of amino acids)
 | Translation   | mRNA is read to build protein (in cytoplasm, at ribosome) |
 | mRNA          | Messenger that carries gene info from nucleus to ribosome |
 | Codon         | Group of 3 mRNA letters = 1 amino acid                    |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q1: Explain the central dogma of life.
-
-The central dogma describes directional flow of genetic information: DNA is transcribed into RNA, and RNA is translated into protein. This process links genes to expressed traits and cellular functions.
-
-### Q2: Describe transcription and roles of RNA polymerase and mRNA.
-
-Transcription is the synthesis of mRNA from a DNA template in the nucleus. RNA polymerase binds the gene, reads the DNA strand, and forms complementary mRNA, which carries the genetic message to the cytoplasm for protein synthesis.
-
-### Q4: Compare transcription and translation.
-
-Transcription occurs in the nucleus and produces mRNA from DNA. Translation occurs at ribosomes in the cytoplasm and produces a polypeptide by reading mRNA codons and joining amino acids in sequence.

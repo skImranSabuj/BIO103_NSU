@@ -38,6 +38,18 @@ The Cell Theory has **three main principles:**
 
 > Cell theory says: Everything alive is made of cells, cells are the smallest unit of life, and all cells come from other cells. It's the most fundamental idea in biology!
 
+### 📝 Exam Style Answer
+
+Cell theory states:
+
+- All organisms are made of one or more cells
+- Cell is the basic structural and functional unit of life
+- New cells arise from pre-existing cells
+
+Importance: It provides the foundation for understanding life, growth, disease, and modern biological research.
+
+Summary: Cell theory is the core principle of biology.
+
 ---
 
 ## Q2: Differentiate between prokaryotic and eukaryotic cells.
@@ -97,6 +109,13 @@ Biologists have categorized cells into two general types:
 
 > Prokaryotic = simple cell, no nucleus (bacteria). Eukaryotic = complex cell, has nucleus and organelles (plants, animals, fungi).
 
+### 📝 Exam Style Answer
+
+Prokaryotic cells are simple, usually unicellular, and lack a true nucleus and membrane-bound organelles.
+Eukaryotic cells are complex, have a membrane-bound nucleus and organelles, and include plant, animal, fungal, and protist cells.
+
+Summary: Main difference is cellular complexity and presence of a true nucleus.
+
 ---
 
 ## Q3: Describe the structure and functions of the plasma membrane.
@@ -135,6 +154,20 @@ The plasma membrane is made of a **lipid bilayer**:
 
 > The plasma membrane is like a security gate — it decides what goes in and out of the cell. It's made of a double layer of fats (phospholipids) with protein guards.
 
+### 📝 Exam Style Answer
+
+The plasma membrane is a phospholipid bilayer with embedded proteins.
+It is selectively permeable and controls movement of substances into and out of the cell.
+
+Functions:
+
+- Forms boundary of the cell
+- Regulates transport
+- Enables communication
+- Protects internal contents
+
+Summary: Plasma membrane maintains internal balance and controls exchange with the environment.
+
 ---
 
 ### 🎯 Summary of Lecture 8
@@ -146,19 +179,3 @@ The plasma membrane is made of a **lipid bilayer**:
 | Eukaryotic      | Has nucleus and organelles (animals, plants, fungi)                           |
 | Plasma Membrane | Lipid bilayer + proteins; selectively permeable                               |
 | Plant vs Animal | Plants have cell wall, central vacuole, chloroplast                           |
-
----
-
-## 📝 Exam Style Answers (Concise)
-
-### Q1: Explain cell theory and its importance.
-
-Cell theory states that all living organisms are made of one or more cells, the cell is the basic unit of life, and new cells arise from pre-existing cells. It is fundamental to biology because it explains the structural and functional unity of life and supports modern medicine and research.
-
-### Q2: Differentiate prokaryotic and eukaryotic cells.
-
-Prokaryotic cells are simpler, usually unicellular, and lack a true nucleus and membrane-bound organelles. Eukaryotic cells have a true nucleus, membrane-bound organelles, and greater structural complexity; they include plant, animal, fungal, and protist cells.
-
-### Q3: Describe plasma membrane structure and function.
-
-The plasma membrane is a phospholipid bilayer with embedded proteins and behaves as a selectively permeable boundary. It regulates transport, protects cell contents, supports communication, and maintains internal cellular conditions.
