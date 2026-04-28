@@ -21,6 +21,8 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 | 8   | **Lecture 9**     | Cell Organelles                                   | [📖 Open Answers](Lec-09/README.md)    |
 | 9   | **Lecture 10**    | Central Dogma of Life (DNA → RNA → Protein)       | [📖 Open Answers](Lec-10/README.md)    |
 | 10  | **Lecture 11–12** | Energy of Life (ATP, Respiration, Photosynthesis) | [📖 Open Answers](Lec-11-12/README.md) |
+| 11  | **Lecture 16**    | Digestion                                         | [📖 Open Answers](Lec-16/README.md)    |
+| 12  | **Lecture 17–18** | Circulatory System and Blood                      | [📖 Open Answers](Lec-17-18/README.md) |
 
 ---
 
@@ -135,6 +137,29 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 
 ---
 
+### 📘 [Lecture 16: Digestion](Lec-16/README.md)
+
+| Q#  | Topic Block                                                                             | Quick Answer                                                          |
+| --- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Q1  | [Core digestion concepts](Lec-16/README.md#1-core-concepts-english-bangla-side-by-side) | Digestion = mechanical + chemical breakdown into absorbable molecules |
+| Q2  | [Digestive tract flow](Lec-16/README.md#2-human-digestive-tract-flow-very-important)    | Mouth → Esophagus → Stomach → Small intestine → Large intestine       |
+| Q3  | [Accessory organs and roles](Lec-16/README.md#3-accessory-organs)                       | Liver makes bile, gallbladder stores bile, pancreas gives enzymes     |
+| Q4  | [Enzymes and targets](Lec-16/README.md#4-key-enzymes-and-targets)                       | Amylase, pepsin, lipase, proteases, nucleases                         |
+
+---
+
+### 📘 [Lecture 17–18: Circulatory System and Blood](Lec-17-18/README.md)
+
+| Q#  | Topic Block                                                                               | Quick Answer                                                            |
+| --- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Q1  | [Topic 17 core concepts](Lec-17-18/README.md#1-core-concepts-english-bangla-side-by-side) | Heart + vessels + blood handle transport, immunity, and clotting        |
+| Q2  | [Blood flow pathways](Lec-17-18/README.md#2-heart-and-blood-flow-path)                    | Right heart → lungs; left heart → body                                  |
+| Q3  | [Vessel differences](Lec-17-18/README.md#4-artery-vs-vein-vs-capillary)                   | Artery high pressure, vein low pressure with valves, capillary exchange |
+| Q4  | [Topic 18 blood components](Lec-17-18/README.md#2-blood-components-at-a-glance)           | Plasma + RBC + WBC + platelets                                          |
+| Q5  | [ABO and Rh groups](Lec-17-18/README.md#4-blood-groups-abo-and-rh)                        | ABO antigens + Rh factor determine compatibility                        |
+
+---
+
 ## ⚡ Quick Revision — Key Formulas
 
 | Process                  | Equation                                 |
@@ -174,7 +199,9 @@ BIO103/
 ├── Lec-08/README.md       ← Cell Structure & Function
 ├── Lec-09/README.md       ← Cell Organelles
 ├── Lec-10/README.md       ← Central Dogma of Life
-└── Lec-11-12/README.md    ← Energy of Life
+├── Lec-11-12/README.md    ← Energy of Life
+├── Lec-16/README.md       ← Digestion
+└── Lec-17-18/README.md    ← Circulatory System and Blood
 ```
 
 ---
