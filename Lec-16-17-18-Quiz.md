@@ -404,4 +404,352 @@ D) No antigens
 
 **Answer: C**
 
+### 41. Villi and microvilli together mainly function to:
+A) Produce HCl  
+B) Greatly increase the surface area for absorption  
+C) Store bile  
+D) Move feces  
+
+**Answer: B**
+
+---
+
+### 42. Nutrients absorbed in the ileum first travel to:
+A) The pancreas  
+B) The liver  
+C) The gallbladder  
+D) The large intestine  
+
+**Answer: B**
+
+---
+
+### 43. The duodenum receives secretions from:
+A) Only the stomach  
+B) Liver and pancreas  
+C) Only the pancreas  
+D) Only accessory organs  
+
+**Answer: B**
+
+---
+
+### 44. Bile salts in the small intestine serve to:
+A) Digest proteins  
+B) Break down and emulsify fats  
+C) Neutralize acid  
+D) Absorb carbohydrates  
+
+**Answer: B**
+
+---
+
+### 45. Pancreatic bicarbonate in the small intestine mainly:
+A) Digests proteins  
+B) Breaks down fats  
+C) Neutralizes acidic chyme from stomach  
+D) Absorbs glucose  
+
+**Answer: C**
+
+---
+
+### 46. Which enzyme breaks down starch in the small intestine?
+A) Pepsin  
+B) Pancreatic amylase  
+C) Lipase  
+D) Nuclease  
+
+**Answer: B**
+
+---
+
+### 47. Which enzyme breaks down proteins in the small intestine?
+A) Amylase  
+B) Trypsin and chymotrypsin  
+C) Lipase  
+D) Maltase  
+
+**Answer: B**
+
+---
+
+### 48. Which enzyme breaks down fats in the small intestine?
+A) Protease  
+B) Amylase  
+C) Lipase  
+D) Nuclease  
+
+**Answer: C**
+
+---
+
+### 49. Nucleases in the small intestine break down:
+A) Carbohydrates  
+B) Proteins  
+C) Fats  
+D) Nucleic acids  
+
+**Answer: D**
+
+---
+
+### 50. In the large intestine, the primary processes are:
+A) Protein and fat digestion  
+B) Water reabsorption and waste compaction  
+C) Nutrient absorption  
+D) Enzyme production  
+
+**Answer: B**
+
+---
+
+### 51. The large intestine is also called:
+A) Small bowel  
+B) Colon  
+C) Duodenum  
+D) Ileum  
+
+**Answer: B**
+
+---
+
+### 52. How much digestion occurs in the large intestine?
+A) Most  
+B) About half  
+C) Very little  
+D) None at all  
+
+**Answer: C**
+
+---
+
+### 53. The rectum's main function is:
+A) Digest food  
+B) Absorb nutrients  
+C) Store and mold feces  
+D) Produce mucus  
+
+**Answer: C**
+
+---
+
+### 54. The anus is:
+A) The beginning of the digestive tract  
+B) The exit of the alimentary canal  
+C) Part of the small intestine  
+D) A sphincter that produces enzymes  
+
+**Answer: B**
+
+---
+
+### 55. The anal sphincter is:
+A) Always open  
+B) A ring of muscle that can be relaxed voluntarily  
+C) Involuntary only  
+D) Located in the stomach  
+
+**Answer: B**
+
+---
+
+### 56. The liver's main digestive function is:
+A) Produce pepsin  
+B) Produce bile  
+C) Absorb glucose  
+D) Secrete enzymes into duodenum  
+
+**Answer: B**
+
+---
+
+### 57. Bile is used mainly for:
+A) Protein digestion  
+B) Carbohydrate digestion  
+C) Fat digestion and emulsification  
+D) Nucleic acid digestion  
+
+**Answer: C**
+
+---
+
+### 58. The gallbladder's primary role is to:
+A) Produce bile  
+B) Store and concentrate bile  
+C) Digest proteins  
+D) Absorb glucose  
+
+**Answer: B**
+
+---
+
+### 59. Bile is stored in approximately what volume in the gallbladder?
+A) 10 mL  
+B) 50 mL  
+C) 100 mL  
+D) 200 mL  
+
+**Answer: B**
+
+---
+
+### 60. When fatty food enters the duodenum, the gallbladder:
+A) Stores more bile  
+B) Produces new bile  
+C) Releases stored bile into small intestine  
+D) Produces enzymes  
+
+**Answer: C**
+
+---
+
+### 61. The pancreas is located:
+A) Above the stomach  
+B) Between stomach and duodenum  
+C) In the liver  
+D) In the gallbladder  
+
+**Answer: B**
+
+---
+
+### 62. The pancreas secretes pancreatic juice containing:
+A) Amylase only  
+B) Protease only  
+C) Lipase only  
+D) Amylase, protease, lipase, and bicarbonate  
+
+**Answer: D**
+
+---
+
+### 63. Pancreatic amylase breaks down:
+A) Proteins  
+B) Fats  
+C) Starch  
+D) Nucleic acids  
+
+**Answer: C**
+
+---
+
+### 64. Pancreatic protease breaks down:
+A) Carbohydrates  
+B) Proteins  
+C) Fats  
+D) Nucleic acids  
+
+**Answer: B**
+
+---
+
+### 65. Pancreatic lipase breaks down:
+A) Carbohydrates  
+B) Proteins  
+C) Fats into fatty acids and glycerol  
+D) Nucleic acids  
+
+**Answer: C**
+
+---
+
+### 66. Besides digestive enzymes, pancreatic juice contains:
+A) Bile  
+B) Bicarbonate to neutralize stomach acid  
+C) Pepsin  
+D) Saliva  
+
+**Answer: B**
+
+---
+
+### 67. The pancreas also produces hormones including:
+A) Bile only  
+B) Insulin and glucagon  
+C) Pepsinogen only  
+D) Amylase  
+
+**Answer: B**
+
+---
+
+### 68. Insulin's main role is:
+A) Digest proteins  
+B) Neutralize acid  
+C) Enable cells to use glucose  
+D) Produce enzymes  
+
+**Answer: C**
+
+---
+
+### 69. Which of the following is NOT an accessory digestive organ?
+A) Liver  
+B) Pancreas  
+C) Gallbladder  
+D) Stomach  
+
+**Answer: D**
+
+---
+
+### 70. The final exit of undigested waste is through:
+A) Ileum  
+B) Rectum  
+C) Anus  
+D) Duodenum  
+
+**Answer: C**
+
+---
+
+### 71. A deficiency of bile salts would most directly impair:
+A) Protein digestion  
+B) Carbohydrate digestion  
+C) Fat digestion  
+D) Nucleic acid digestion  
+
+**Answer: C**
+
+---
+
+### 72. If pepsin were not activated, the result would be:
+A) Faster carbohydrate digestion  
+B) Impaired protein digestion in the stomach  
+C) Better fat absorption  
+D) Increased mucus production  
+
+**Answer: B**
+
+---
+
+### 73. Villi damage in the small intestine would lead to:
+A) Better absorption  
+B) Reduced absorption area and nutrient uptake  
+C) Faster digestion  
+D) More enzyme production  
+
+**Answer: B**
+
+---
+
+### 74. The complete digestion of a meal requires functioning of:
+A) Only the stomach  
+B) Only the small intestine  
+C) All parts of alimentary canal plus accessory organs  
+D) Only accessory organs  
+
+**Answer: C**
+
+---
+
+### 75. Which statement best describes the relationship between mechanical and chemical digestion?
+A) Only mechanical digestion matters  
+B) Only chemical digestion matters  
+C) They work together throughout digestion  
+D) They never occur at the same time  
+
+**Answer: C**
+
 ---
