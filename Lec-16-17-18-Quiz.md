@@ -1314,3 +1314,626 @@ D) Increase fat
 **Answer: C**
 
 ---
+# 🩸 Topic 18: Blood, Components, and Blood Groups (Q131–190)
+
+---
+
+## Section: Blood Composition
+
+### 131. Blood is composed of:
+A) Cells only  
+B) Plasma only  
+C) Plasma and formed elements  
+D) Water only  
+
+**Answer: C**
+
+---
+
+### 132. Plasma constitutes approximately:
+A) 20%  
+B) 40%  
+C) 55%  
+D) 80%  
+
+**Answer: C**
+
+---
+
+### 133. Plasma is primarily composed of:
+A) Proteins only  
+B) Water (~90%), proteins (~10%), and solutes  
+C) White blood cells  
+D) Red blood cells  
+
+**Answer: B**
+
+---
+
+### 134. Blood cells are produced in:
+A) Liver  
+B) Spleen  
+C) Bone marrow  
+D) Lungs  
+
+**Answer: C**
+
+---
+
+### 135. The three main types of blood cells are:
+A) Hormone cells  
+B) RBCs, WBCs, and platelets  
+C) Arterial cells  
+D) Muscle cells  
+
+**Answer: B**
+
+---
+
+### 136. Albumin is the most abundant:
+A) RBC  
+B) WBC  
+C) Plasma protein  
+D) Hormone  
+
+**Answer: C**
+
+---
+
+### 137. Albumin functions to:
+A) Fight infection  
+B) Carry oxygen  
+C) Maintain fluid balance and transport substances  
+D) Form clots  
+
+**Answer: C**
+
+---
+
+### 138. Globulins:
+A) Digest food  
+B) Transport substances  
+C) Carry oxygen only  
+D) Form all clots  
+
+**Answer: B**
+
+---
+
+### 139. LDL is known as:
+A) Good cholesterol  
+B) Bad cholesterol  
+C) Healthy fat  
+D) Immune protein  
+
+**Answer: B**
+
+---
+
+### 140. HDL is associated with:
+A) Higher disease risk  
+B) Lower disease risk  
+C) Clotting  
+D) Immunity  
+
+**Answer: B**
+
+---
+
+### 141. Clotting proteins:
+A) Digest food  
+B) Help in clot formation  
+C) Carry oxygen  
+D) Transport glucose  
+
+**Answer: B**
+
+---
+
+### 142. Electrolytes include:
+A) Glucose  
+B) Oxygen  
+C) Na⁺, K⁺, Ca²⁺  
+D) Proteins  
+
+**Answer: C**
+
+---
+
+### 143. Nutrients in plasma:
+A) Glucose only  
+B) Amino acids only  
+C) Glucose, amino acids, fatty acids  
+D) Hormones  
+
+**Answer: C**
+
+---
+
+### 144. Waste products include:
+A) Glucose  
+B) CO₂, urea, lactic acid  
+C) Oxygen  
+D) Vitamins  
+
+**Answer: B**
+
+---
+
+## Section: Red Blood Cells
+
+### 145. RBCs are also called:
+A) Leukocytes  
+B) Thrombocytes  
+C) Erythrocytes  
+D) Lymphocytes  
+
+**Answer: C**
+
+---
+
+### 146. RBC shape is:
+A) Spherical  
+B) Cubic  
+C) Biconcave  
+D) Elongated  
+
+**Answer: C**
+
+---
+
+### 147. This shape allows RBCs to:
+A) Digest food  
+B) Produce hemoglobin  
+C) Flex through vessels  
+D) Fight infection  
+
+**Answer: C**
+
+---
+
+### 148. RBCs are red due to:
+A) Iron  
+B) Hemoglobin  
+C) Chlorophyll  
+D) Plasma  
+
+**Answer: B**
+
+---
+
+### 149. RBC function:
+A) Immunity  
+B) Clotting  
+C) Oxygen transport  
+D) Digestion  
+
+**Answer: C**
+
+---
+
+### 150. Hemoglobin binds:
+A) Glucose  
+B) Proteins  
+C) Oxygen  
+D) Fats  
+
+**Answer: C**
+
+---
+
+### 151. CO₂ transport occurs by:
+A) Hemoglobin only  
+B) Plasma and hemoglobin  
+C) WBCs  
+D) Platelets  
+
+**Answer: B**
+
+---
+
+### 152. RBC production is called:
+A) Hemolysis  
+B) Erythropoiesis  
+C) Leukocytosis  
+D) Thrombocytosis  
+
+**Answer: B**
+
+---
+
+### 153. RBC production rate:
+A) 100k/sec  
+B) 1 million/sec  
+C) 2 million/sec  
+D) 10 million/sec  
+
+**Answer: C**
+
+---
+
+### 154. Normal RBC count:
+A) 1–2 million  
+B) 4.5–5.5 million  
+C) 10 million  
+D) 20 million  
+
+**Answer: B**
+
+---
+
+### 155. In embryo, RBCs form in:
+A) Bone marrow  
+B) Liver  
+C) Spleen  
+D) Thymus  
+
+**Answer: B**
+
+---
+
+## Section: White Blood Cells
+
+### 156. WBCs are:
+A) Erythrocytes  
+B) Thrombocytes  
+C) Leukocytes  
+D) Hemocytes  
+
+**Answer: C**
+
+---
+
+### 157. WBC function:
+A) Oxygen transport  
+B) Clotting  
+C) Defense  
+D) Digestion  
+
+**Answer: C**
+
+---
+
+### 158. WBCs found in:
+A) Blood only  
+B) Blood & lymph  
+C) Heart  
+D) All tissues  
+
+**Answer: B**
+
+---
+
+### 159. Phagocytes:
+A) Produce antibodies  
+B) Eat pathogens  
+C) Carry oxygen  
+D) Clot blood  
+
+**Answer: B**
+
+---
+
+### 160. NOT a WBC:
+A) Neutrophil  
+B) Lymphocyte  
+C) Monocyte  
+D) Hemocyte  
+
+**Answer: D**
+
+---
+
+### 161. Granulocytes include:
+A) Neutrophils  
+B) Eosinophils  
+C) Basophils  
+D) Lymphocytes  
+
+**Answer: D**
+
+---
+
+### 162. Agranulocytes:
+A) Neutrophils  
+B) Basophils  
+C) Monocytes & lymphocytes  
+D) Platelets  
+
+**Answer: C**
+
+---
+
+## Section: Platelets
+
+### 163. Platelets are:
+A) RBCs  
+B) WBCs  
+C) Thrombocytes  
+D) Hemocytes  
+
+**Answer: C**
+
+---
+
+### 164. Platelets are:
+A) Cells  
+B) Cell fragments  
+C) Bacteria  
+D) Viruses  
+
+**Answer: B**
+
+---
+
+### 165. Platelets result from:
+A) Division  
+B) Fusion  
+C) Fragmentation  
+D) Synthesis  
+
+**Answer: C**
+
+---
+
+### 166. Platelet count:
+A) 50k–100k  
+B) 150k–300k  
+C) 500k–1M  
+D) 2–3M  
+
+**Answer: B**
+
+---
+
+### 167. Platelet lifespan:
+A) 1 day  
+B) 5 days  
+C) 10 days  
+D) 30 days  
+
+**Answer: C**
+
+---
+
+### 168. Platelets removed by:
+A) Heart  
+B) Lungs  
+C) Liver & spleen  
+D) Kidney  
+
+**Answer: C**
+
+---
+
+### 169. Without platelets:
+A) Too much clotting  
+B) Bleeding risk  
+C) Immunity ↑  
+D) Oxygen ↑  
+
+**Answer: B**
+
+---
+
+### 170. Platelets at injury:
+A) Produce blood  
+B) Form plug  
+C) Carry oxygen  
+D) Dissolve  
+
+**Answer: B**
+
+---
+
+### 171. Platelets release chemicals that react with:
+A) Glucose  
+B) Hemoglobin  
+C) Clotting proteins  
+D) Oxygen  
+
+**Answer: C**
+
+---
+
+### 172. Clotting helps:
+A) Digestion  
+B) Stop bleeding  
+C) Oxygen transport  
+D) Immunity  
+
+**Answer: B**
+
+---
+
+## Section: Blood Groups
+
+### 173. Blood groups:
+A) 2  
+B) 3  
+C) 4  
+D) 5  
+
+**Answer: C**
+
+---
+
+### 174. Types are:
+A) 1,2,3,4  
+B) X,Y,Z  
+C) A,B,AB,O  
+D) Colors  
+
+**Answer: C**
+
+---
+
+### 175. Blood type determined by:
+A) Plasma  
+B) RBC antigens  
+C) Hemoglobin  
+D) Platelets  
+
+**Answer: B**
+
+---
+
+### 176. ABO based on:
+A) Size  
+B) A & B antigens  
+C) WBC count  
+D) Platelets  
+
+**Answer: B**
+
+---
+
+### 177. Type A has:
+A) A antigen  
+B) B antigen  
+C) Both  
+D) None  
+
+**Answer: A**
+
+---
+
+### 178. Type B has:
+A) A antigen  
+B) B antigen  
+C) Both  
+D) None  
+
+**Answer: B**
+
+---
+
+### 179. Type AB has:
+A) A only  
+B) B only  
+C) Both  
+D) None  
+
+**Answer: C**
+
+---
+
+### 180. Type O has:
+A) A  
+B) B  
+C) Both  
+D) None  
+
+**Answer: D**
+
+---
+
+### 181. Rh factor is:
+A) Antigen  
+B) Protein  
+C) Cell  
+D) Enzyme  
+
+**Answer: A**
+
+---
+
+### 182. Rh+ means:
+A) No antigen  
+B) Has antigen  
+C) No RBC  
+D) No Hb  
+
+**Answer: B**
+
+---
+
+### 183. Rh- means:
+A) Has antigen  
+B) Lacks antigen  
+C) More platelets  
+D) More Hb  
+
+**Answer: B**
+
+---
+
+### 184. Rh- receiving Rh+:
+A) No response  
+B) Antibody production  
+C) More Hb  
+D) More platelets  
+
+**Answer: B**
+
+---
+
+### 185. Universal donor:
+A) All antigens  
+B) No antigens  
+C) More Hb  
+D) More platelets  
+
+**Answer: B**
+
+---
+
+### 186. Universal recipient:
+A) No antigens  
+B) No antibodies  
+C) More RBC  
+D) No platelets  
+
+**Answer: B**
+
+---
+
+### 187. Type A can receive:
+A) B  
+B) AB  
+C) A & O  
+D) All  
+
+**Answer: C**
+
+---
+
+### 188. Type AB can receive:
+A) AB only  
+B) A & B  
+C) All types  
+D) O only  
+
+**Answer: C**
+
+---
+
+### 189. Compatibility matters because:
+A) Color  
+B) Immune reaction  
+C) Speed  
+D) Size  
+
+**Answer: B**
+
+---
+
+### 190. Knowing blood type is important for:
+A) Digestion  
+B) Immunity  
+C) Transfusion & emergencies  
+D) Bones  
+
+**Answer: C**
+
+---
+
+### 190. DO you love Sabuj?
+A) YES  
+B) Option A  
+C) Option B 
+D) Option C  
+
+**Answer: ??**
+
+---
