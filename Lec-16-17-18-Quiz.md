@@ -14,22 +14,27 @@
    B) Chemical breakdown of food only
    C) Mechanical and chemical breakdown into absorbable molecules
    D) Movement of food through the tract
+
    **Answer: C**
 
 2. Which of the following is NOT a macromolecule found in food?
    A) Carbohydrates B) Proteins C) Vitamins D) Nucleic acids
+
    **Answer: C**
 
 3. Herbivores have digestive systems specially adapted to:
    A) Break down meat B) Break down plant material C) Absorb fats D) Produce bile
+
    **Answer: B**
 
 4. An omnivore's digestive system is suited for:
    A) Plant material only B) Meat only C) Both plant and animal material D) Liquids only
+
    **Answer: C**
 
 5. Carnivores like eagles and wolves primarily digest:
    A) Fruits and seeds B) Meat and bone C) Leaves D) Fungi
+
    **Answer: B**
 
 6. The human digestive system consists of:
@@ -37,10 +42,12 @@
    B) Alimentary canal and accessory organs
    C) Liver and pancreas only
    D) Only the small intestine
+
    **Answer: B**
 
 7. Food passes through the digestive system in which direction?
    A) Mouth → Anus only B) Anus → Mouth C) Random pattern D) Mouth → Pharynx → Stomach → Anus
+
    **Answer: D**
 
 8. Accessory digestive organs are defined as organs that:
@@ -48,10 +55,12 @@
    B) Aid digestion but food does not pass through them
    C) Absorb most nutrients
    D) Move waste out of the body
+
    **Answer: B**
 
 9. The total length of the human alimentary canal is approximately:
    A) 2 meters B) 5-7 meters C) 10 meters D) 15 meters
+
    **Answer: B**
 
 10. Which organ is considered part of the alimentary canal?
