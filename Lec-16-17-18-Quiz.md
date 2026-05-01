@@ -753,3 +753,564 @@ D) They never occur at the same time
 **Answer: C**
 
 ---
+# 🫀 Topic 17: Circulatory System (Q76–130)
+
+---
+
+### 76. The circulatory system consists of:
+A) Heart and blood only  
+B) Blood and blood vessels only  
+C) Heart, blood, and blood vessels  
+D) Heart and lungs only  
+
+**Answer: C**
+
+---
+
+### 77. The primary functions of the circulatory system include:
+A) Transport of oxygen and nutrients only  
+B) Removal of wastes only  
+C) Transport, waste removal, immunity, clotting, temperature regulation  
+D) Digestion only  
+
+**Answer: C**
+
+---
+
+### 78. When foreign substances invade the body, the circulatory system transports:
+A) Only red blood cells  
+B) Only antibodies  
+C) Disease-fighting elements like WBCs and antibodies  
+D) Only oxygen  
+
+**Answer: C**
+
+---
+
+### 79. The circulatory system helps stop bleeding through:
+A) Enzyme secretion  
+B) Hormone production  
+C) Clotting cells and proteins forming clots  
+D) Temperature increase  
+
+**Answer: C**
+
+---
+
+### 80. Body temperature regulation by circulation involves:
+A) Increasing blood flow only  
+B) Decreasing blood flow only  
+C) Adjusting blood flow to meet energy demands and regulate heat  
+D) Stopping circulation  
+
+**Answer: C**
+
+---
+
+## Section: Heart Anatomy
+
+### 81. The heart is divided into how many chambers?
+A) 2  
+B) 3  
+C) 4  
+D) 5  
+
+**Answer: C**
+
+---
+
+### 82. The four chambers of the heart are:
+A) Left atrium, left ventricle, right atrium, right ventricle  
+B) Superior atrium, inferior atrium, superior ventricle, inferior ventricle  
+C) Anterior atrium, posterior atrium, anterior ventricle, posterior ventricle  
+D) Upper atrium, lower atrium, upper ventricle, lower ventricle  
+
+**Answer: A**
+
+---
+
+### 83. The primary function of the atria is to:
+A) Pump blood out of the heart  
+B) Collect blood returning to the heart  
+C) Produce red blood cells  
+D) Filter blood  
+
+**Answer: B**
+
+---
+
+### 84. The primary function of the ventricles is to:
+A) Collect blood  
+B) Pump blood out of the heart  
+C) Produce antibodies  
+D) Store blood  
+
+**Answer: B**
+
+---
+
+### 85. The right side of the heart pumps deoxygenated blood to:
+A) The body  
+B) The lungs  
+C) The aorta  
+D) The coronary arteries  
+
+**Answer: B**
+
+---
+
+### 86. The left side of the heart pumps oxygenated blood to:
+A) The lungs  
+B) The aorta and throughout the body  
+C) The vena cava  
+D) The pulmonary artery  
+
+**Answer: B**
+
+---
+
+### 87. Heart valves prevent:
+A) Forward flow of blood  
+B) Backward flow of blood  
+C) Blood clotting  
+D) Oxygen loss  
+
+**Answer: B**
+
+---
+
+### 88. The septum of the heart:
+A) Pumps blood  
+B) Collects blood  
+C) Separates the two sides of the heart  
+D) Produces heart sounds  
+
+**Answer: C**
+
+---
+
+### 89. The wall of the heart chambers is made of:
+A) Bone  
+B) Connective tissue  
+C) Myocardium (special muscle)  
+D) Fat  
+
+**Answer: C**
+
+---
+
+### 90. Myocardium contracts:
+A) Only during systole  
+B) Only during diastole  
+C) Continuously and rhythmically  
+D) Only at night  
+
+**Answer: C**
+
+---
+
+### 91. During diastole, the heart is:
+A) Contracting  
+B) Relaxing and filling with blood  
+C) Stopping completely  
+D) Pumping forcefully  
+
+**Answer: B**
+
+---
+
+### 92. During systole, the heart is:
+A) Relaxing  
+B) Contracting and pumping blood  
+C) Absorbing nutrients  
+D) Producing new blood cells  
+
+**Answer: B**
+
+---
+
+### 93. In each heartbeat, approximately how much blood is pumped out?
+A) 10 mL  
+B) 30 mL  
+C) 60–90 mL  
+D) 200 mL  
+
+**Answer: C**
+
+---
+
+### 94. If the heart stops pumping, death usually occurs within:
+A) 1 minute  
+B) 5 minutes  
+C) 10 minutes  
+D) 30 minutes  
+
+**Answer: B**
+
+---
+
+## Section: Blood Vessels
+
+### 95. Arteries carry blood:
+A) Away from the heart  
+B) Toward the heart  
+C) Between capillaries  
+D) Only through lungs  
+
+**Answer: A**
+
+---
+
+### 96. Arteries have:
+A) Thin, fragile walls  
+B) Thick, elastic, muscular walls  
+C) No walls  
+D) Hollow centers  
+
+**Answer: B**
+
+---
+
+### 97. The pressure in arteries is:
+A) Very low  
+B) Low  
+C) High  
+D) Zero  
+
+**Answer: C**
+
+---
+
+### 98. Small arteries are called:
+A) Venules  
+B) Capillaries  
+C) Arterioles  
+D) Vessels  
+
+**Answer: C**
+
+---
+
+### 99. Veins carry blood:
+A) Away from the heart  
+B) Toward the heart  
+C) Throughout the body  
+D) Only in the lungs  
+
+**Answer: B**
+
+---
+
+### 100. Veins have:
+A) Thicker walls than arteries  
+B) Thinner walls than arteries  
+C) Same thickness  
+D) No walls  
+
+**Answer: B**
+
+---
+
+### 101. The pressure in veins is:
+A) Very high  
+B) High  
+C) Low  
+D) Zero  
+
+**Answer: C**
+
+---
+
+### 102. Many veins have one-way valves because:
+A) They carry more blood  
+B) Venous pressure is low  
+C) Prevent oxygen loss  
+D) They are narrow  
+
+**Answer: B**
+
+---
+
+### 103. Small veins are called:
+A) Arterioles  
+B) Capillaries  
+C) Venules  
+D) Vessels  
+
+**Answer: C**
+
+---
+
+### 104. Capillaries are specialized to:
+A) Pump blood  
+B) Store blood  
+C) Exchange gases and nutrients  
+D) Filter substances  
+
+**Answer: C**
+
+---
+
+### 105. Capillary walls are:
+A) Thick  
+B) Muscular  
+C) One cell thick  
+D) Bone  
+
+**Answer: C**
+
+---
+
+### 106. Capillaries connect:
+A) Heart to lungs  
+B) Heart to body  
+C) Arteries and veins  
+D) Veins only  
+
+**Answer: C**
+
+---
+
+## Section: Circulation Pathways
+
+### 107. Deoxygenated blood returns via:
+A) Aorta  
+B) Pulmonary artery  
+C) Vena cava  
+D) Pulmonary vein  
+
+**Answer: C**
+
+---
+
+### 108. Oxygenated blood returns via:
+A) Pulmonary artery  
+B) Pulmonary vein  
+C) Aorta  
+D) Vena cava  
+
+**Answer: B**
+
+---
+
+### 109. The aorta carries blood:
+A) To lungs  
+B) From lungs  
+C) From left ventricle to body  
+D) To heart  
+
+**Answer: C**
+
+---
+
+### 110. Pulmonary artery carries:
+A) Deoxygenated blood to lungs  
+B) Oxygenated blood  
+C) Blood to body  
+D) Blood to liver  
+
+**Answer: A**
+
+---
+
+### 111. Blood from body enters:
+A) Left atrium  
+B) Right atrium  
+C) Left ventricle  
+D) Right ventricle  
+
+**Answer: B**
+
+---
+
+### 112. After right atrium:
+A) Left atrium  
+B) Left ventricle  
+C) Right ventricle  
+D) Aorta  
+
+**Answer: C**
+
+---
+
+### 113. Blood to lungs is pumped from:
+A) Left atrium  
+B) Left ventricle  
+C) Right ventricle  
+D) Right atrium  
+
+**Answer: C**
+
+---
+
+### 114. After left atrium:
+A) Right atrium  
+B) Right ventricle  
+C) Left ventricle  
+D) Pulmonary artery  
+
+**Answer: C**
+
+---
+
+### 115. Systemic circulation is:
+A) Heart ↔ lungs  
+B) Heart ↔ body  
+C) Lungs only  
+D) Liver only  
+
+**Answer: B**
+
+---
+
+### 116. Pulmonary circulation is:
+A) Heart ↔ lungs  
+B) Heart ↔ body  
+C) Inside heart  
+D) Limbs  
+
+**Answer: A**
+
+---
+
+### 117. Pulmonary circuit uses:
+A) Left heart  
+B) Right heart  
+C) Both equally  
+D) Atria only  
+
+**Answer: B**
+
+---
+
+### 118. Systemic circuit uses:
+A) Right heart  
+B) Left heart  
+C) Both  
+D) Ventricles only  
+
+**Answer: B**
+
+---
+
+### 119. Blood oxygenation occurs in:
+A) Heart  
+B) Liver  
+C) Lungs  
+D) Aorta  
+
+**Answer: C**
+
+---
+
+### 120. After lungs, blood:
+A) Goes to body  
+B) Returns to left atrium  
+C) Stays  
+D) Goes right atrium  
+
+**Answer: B**
+
+---
+
+## Section: Disorders
+
+### 121. Atherosclerosis involves:
+A) Thin arteries  
+B) Plaque buildup  
+C) RBC loss  
+D) Fast pumping  
+
+**Answer: B**
+
+---
+
+### 122. Arteriosclerosis is:
+A) Fat deposits  
+B) Hardening of arteries  
+C) Cell loss  
+D) Inflammation  
+
+**Answer: B**
+
+---
+
+### 123. Plaques develop in:
+A) Veins  
+B) Capillaries  
+C) Artery walls  
+D) Heart  
+
+**Answer: C**
+
+---
+
+### 124. Narrowed arteries cause:
+A) Better flow  
+B) High BP & heart attack risk  
+C) Better oxygen  
+D) Low cholesterol  
+
+**Answer: B**
+
+---
+
+### 125. Heart attack occurs when:
+A) HR increases  
+B) Oxygen supply blocked  
+C) Vessels relax  
+D) Cholesterol drops  
+
+**Answer: B**
+
+---
+
+### 126. Heart attack causes:
+A) No damage  
+B) Temporary damage  
+C) Death of heart tissue  
+D) Better function  
+
+**Answer: C**
+
+---
+
+### 127. Stroke results from:
+A) High BP only  
+B) Blockage/rupture in brain vessels  
+C) Low RBC  
+D) Oxygen excess  
+
+**Answer: B**
+
+---
+
+### 128. During stroke, brain cells are:
+A) Overfed  
+B) Starved of oxygen  
+C) Growing  
+D) Resting  
+
+**Answer: B**
+
+---
+
+### 129. Stroke consequences include:
+A) None  
+B) Dizziness  
+C) Paralysis, speech loss, death  
+D) Energy increase  
+
+**Answer: C**
+
+---
+
+### 130. To reduce heart disease risk:
+A) Eat fried food  
+B) Avoid exercise  
+C) Healthy diet, exercise, no smoking  
+D) Increase fat  
+
+**Answer: C**
+
+---
