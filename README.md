@@ -26,6 +26,14 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 
 ---
 
+## 🎯 Practice Quizzes
+
+| Quiz | Topics | Questions | Link |
+| --- | --- | --- | --- |
+| **Quiz 1: Lec 16–18** | Digestion, Circulatory System, Blood | 190 MCQs (answers at end) | [📝 Take Quiz](Lec-16-17-18-Quiz.md) |
+
+---
+
 ## 🔍 Detailed Question Index
 
 ### 📘 [Lecture 1–2: Introduction to Biology](Lec-01-02/README.md)
