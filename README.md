@@ -28,9 +28,17 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 
 ## 🎯 Practice Quizzes
 
-| Quiz | Topics | Questions | Link |
-| --- | --- | --- | --- |
-| **Quiz 1: Lec 16–18** | Digestion, Circulatory System, Blood | 190 MCQs (answers at end) | [📝 Take Quiz](Lec-16-17-18-Quiz.md) |
+| Quiz                  | Topics                               | Questions                 | Link                                 |
+| --------------------- | ------------------------------------ | ------------------------- | ------------------------------------ |
+| **Quiz 1: Lec 16–18** | Digestion, Circulatory System, Blood | 190 MCQs (answers inline) | [📝 Take Quiz](Lec-16-17-18-Quiz.md) |
+
+---
+
+## 📝 Final Exam Answer Guide
+
+| Guide | Topics Covered | Format | Link |
+| ----- | -------------- | ------ | ---- |
+| **Exam Answers: Lec 13–22** | Cell Cycle, Homeostasis, Digestion, Circulatory System, Respiratory System, Diabetes, Food & Nutrition | 5-mark NSU answers, Bilingual English + বাংলা | [📖 Open Guide](Exam-Answers-Lec13-22.md) |
 
 ---
 
