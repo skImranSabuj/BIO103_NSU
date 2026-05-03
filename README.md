@@ -36,8 +36,8 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 
 ## 📝 Final Exam Answer Guide
 
-| Guide | Topics Covered | Format | Link |
-| ----- | -------------- | ------ | ---- |
+| Guide                       | Topics Covered                                                                                         | Format                                        | Link                                      |
+| --------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------- |
 | **Exam Answers: Lec 13–22** | Cell Cycle, Homeostasis, Digestion, Circulatory System, Respiratory System, Diabetes, Food & Nutrition | 5-mark NSU answers, Bilingual English + বাংলা | [📖 Open Guide](Exam-Answers-Lec13-22.md) |
 
 ---
