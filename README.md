@@ -21,8 +21,12 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 | 8   | **Lecture 9**     | Cell Organelles                                   | [📖 Open Answers](Lec-09/README.md)    |
 | 9   | **Lecture 10**    | Central Dogma of Life (DNA → RNA → Protein)       | [📖 Open Answers](Lec-10/README.md)    |
 | 10  | **Lecture 11–12** | Energy of Life (ATP, Respiration, Photosynthesis) | [📖 Open Answers](Lec-11-12/README.md) |
-| 11  | **Lecture 16**    | Digestion                                         | [📖 Open Answers](Lec-16/README.md)    |
-| 12  | **Lecture 17–18** | Circulatory System and Blood                      | [📖 Open Answers](Lec-17-18/README.md) |
+| 11  | **Lecture 13–14** | Cell Division and Cell Cycle                      | [📖 Open Answers](Lec-13-14/README.md) |
+| 12  | **Lecture 16**    | Digestion                                         | [📖 Open Answers](Lec-16/README.md)    |
+| 13  | **Lecture 17–18** | Circulatory System and Blood                      | [📖 Open Answers](Lec-17-18/README.md) |
+| 14  | **Lecture 19**    | Respiratory System                                | [📖 Open Answers](Lec-19/README.md)    |
+| 15  | **Lecture 20**    | Diabetes                                          | [📖 Open Answers](Lec-20/README.md)    |
+| 16  | **Lecture 21–22** | Food and Nutrition                                | [📖 Open Answers](Lec-21-22/README.md) |
 
 ---
 
@@ -39,6 +43,17 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 | Guide                       | Topics Covered                                                                                         | Format                                        | Link                                      |
 | --------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------- |
 | **Exam Answers: Lec 13–22** | Cell Cycle, Homeostasis, Digestion, Circulatory System, Respiratory System, Diabetes, Food & Nutrition | 5-mark NSU answers, Bilingual English + বাংলা | [📖 Open Guide](Exam-Answers-Lec13-22.md) |
+
+---
+
+## 🧾 Quick Revision Sheets
+
+| Lecture | Focus | Includes | Link |
+| ------- | ----- | -------- | ---- |
+| **Lecture 13–14** | Cell Division and Cell Cycle | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-13-14/README.md) |
+| **Lecture 19** | Respiratory System | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-19/README.md) |
+| **Lecture 20** | Diabetes | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-20/README.md) |
+| **Lecture 21–22** | Food and Nutrition | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-21-22/README.md) |
 
 ---
 
