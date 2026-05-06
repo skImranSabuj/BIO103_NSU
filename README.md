@@ -48,12 +48,12 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 
 ## 🧾 Quick Revision Sheets
 
-| Lecture | Focus | Includes | Link |
-| ------- | ----- | -------- | ---- |
+| Lecture           | Focus                        | Includes                              | Link                                 |
+| ----------------- | ---------------------------- | ------------------------------------- | ------------------------------------ |
 | **Lecture 13–14** | Cell Division and Cell Cycle | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-13-14/README.md) |
-| **Lecture 19** | Respiratory System | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-19/README.md) |
-| **Lecture 20** | Diabetes | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-20/README.md) |
-| **Lecture 21–22** | Food and Nutrition | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-21-22/README.md) |
+| **Lecture 19**    | Respiratory System           | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-19/README.md)    |
+| **Lecture 20**    | Diabetes                     | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-20/README.md)    |
+| **Lecture 21–22** | Food and Nutrition           | Bilingual notes, tips, examples, MCQs | [📘 Open Sheet](Lec-21-22/README.md) |
 
 ---
 

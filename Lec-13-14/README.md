@@ -15,25 +15,25 @@ Source used: Lec-13,14_Cell Cycle.pdf
 
 ## 1) Core Concepts (English-Bangla Side by Side)
 
-| English | বাংলা |
-| --- | --- |
-| Cell division is the process by which one parent cell forms new daughter cells. | কোষ বিভাজন হলো এমন প্রক্রিয়া যেখানে একটি জনক কোষ থেকে নতুন অপত্য কোষ তৈরি হয়। |
-| New cells are needed for growth, repair, and replacement of old or damaged cells. | নতুন কোষ দরকার বৃদ্ধি, মেরামত এবং পুরোনো বা ক্ষতিগ্রস্ত কোষের পরিবর্তনের জন্য। |
-| Before division, DNA must be copied so each new cell gets complete genetic information. | বিভাজনের আগে DNA অনুলিপি হতে হয় যাতে প্রতিটি নতুন কোষ সম্পূর্ণ জিনগত তথ্য পায়। |
-| In prokaryotes, division usually occurs by binary fission. | প্রোক্যারিওটে বিভাজন সাধারণত বাইনারি ফিশনের মাধ্যমে হয়। |
+| English                                                                                                             | বাংলা                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Cell division is the process by which one parent cell forms new daughter cells.                                     | কোষ বিভাজন হলো এমন প্রক্রিয়া যেখানে একটি জনক কোষ থেকে নতুন অপত্য কোষ তৈরি হয়।          |
+| New cells are needed for growth, repair, and replacement of old or damaged cells.                                   | নতুন কোষ দরকার বৃদ্ধি, মেরামত এবং পুরোনো বা ক্ষতিগ্রস্ত কোষের পরিবর্তনের জন্য।         |
+| Before division, DNA must be copied so each new cell gets complete genetic information.                             | বিভাজনের আগে DNA অনুলিপি হতে হয় যাতে প্রতিটি নতুন কোষ সম্পূর্ণ জিনগত তথ্য পায়।         |
+| In prokaryotes, division usually occurs by binary fission.                                                          | প্রোক্যারিওটে বিভাজন সাধারণত বাইনারি ফিশনের মাধ্যমে হয়।                                |
 | In eukaryotes, cell division occurs through the cell cycle, mitosis, or meiosis depending on cell type and purpose. | ইউক্যারিওটে কোষের ধরন ও কাজ অনুযায়ী কোষচক্র, মাইটোসিস বা মিয়োসিসের মাধ্যমে বিভাজন ঘটে। |
-| Human somatic cells contain 46 chromosomes arranged in 23 pairs. | মানুষের দেহকোষে ৪৬টি ক্রোমোজোম থাকে যা ২৩ জোড়ায় সাজানো। |
-| Duplicated chromosomes contain two sister chromatids joined by a centromere. | প্রতিলিপিকৃত ক্রোমোজোমে দুটি সিস্টার ক্রোমাটিড থাকে যা সেন্ট্রোমিয়ারে যুক্ত থাকে। |
+| Human somatic cells contain 46 chromosomes arranged in 23 pairs.                                                    | মানুষের দেহকোষে ৪৬টি ক্রোমোজোম থাকে যা ২৩ জোড়ায় সাজানো।                                |
+| Duplicated chromosomes contain two sister chromatids joined by a centromere.                                        | প্রতিলিপিকৃত ক্রোমোজোমে দুটি সিস্টার ক্রোমাটিড থাকে যা সেন্ট্রোমিয়ারে যুক্ত থাকে।      |
 
 ## 2) Cell Cycle Overview
 
-| Phase | English Explanation | বাংলা ব্যাখ্যা |
-| --- | --- | --- |
-| G1 phase | Cell grows, performs normal metabolism, and prepares for DNA synthesis. | কোষ বৃদ্ধি পায়, স্বাভাবিক বিপাক চালায় এবং DNA তৈরির প্রস্তুতি নেয়। |
-| S phase | DNA replication occurs, producing two identical copies of genetic material. | DNA অনুলিপি ঘটে এবং জিনগত উপাদানের দুটি অভিন্ন কপি তৈরি হয়। |
-| G2 phase | Cell grows further and prepares proteins and structures needed for division. | কোষ আরও বৃদ্ধি পায় এবং বিভাজনের জন্য দরকারি প্রোটিন ও গঠন তৈরি করে। |
-| M phase | Nuclear division occurs through mitosis. | M পর্যায়ে নিউক্লিয়াসের বিভাজন বা মাইটোসিস ঘটে। |
-| Cytokinesis | Cytoplasm divides and two daughter cells are formed. | সাইটোপ্লাজম বিভক্ত হয়ে দুটি অপত্য কোষ তৈরি হয়। |
+| Phase       | English Explanation                                                          | বাংলা ব্যাখ্যা                                                      |
+| ----------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| G1 phase    | Cell grows, performs normal metabolism, and prepares for DNA synthesis.      | কোষ বৃদ্ধি পায়, স্বাভাবিক বিপাক চালায় এবং DNA তৈরির প্রস্তুতি নেয়।  |
+| S phase     | DNA replication occurs, producing two identical copies of genetic material.  | DNA অনুলিপি ঘটে এবং জিনগত উপাদানের দুটি অভিন্ন কপি তৈরি হয়।         |
+| G2 phase    | Cell grows further and prepares proteins and structures needed for division. | কোষ আরও বৃদ্ধি পায় এবং বিভাজনের জন্য দরকারি প্রোটিন ও গঠন তৈরি করে। |
+| M phase     | Nuclear division occurs through mitosis.                                     | M পর্যায়ে নিউক্লিয়াসের বিভাজন বা মাইটোসিস ঘটে।                      |
+| Cytokinesis | Cytoplasm divides and two daughter cells are formed.                         | সাইটোপ্লাজম বিভক্ত হয়ে দুটি অপত্য কোষ তৈরি হয়।                      |
 
 ### Quick Formula / Shortcut
 
@@ -43,52 +43,52 @@ Source used: Lec-13,14_Cell Cycle.pdf
 
 ## 3) Mitosis
 
-| Stage | English | বাংলা |
-| --- | --- | --- |
-| Prophase | Chromatin condenses into visible chromosomes; nuclear membrane breaks down; spindle forms. | ক্রোমাটিন দৃশ্যমান ক্রোমোজোমে পরিণত হয়; নিউক্লিয়ার ঝিল্লি ভেঙে যায়; স্পিন্ডল তৈরি হয়। |
-| Metaphase | Chromosomes line up at the equator or metaphase plate. | ক্রোমোজোম কোষের মাঝখানে বা মেটাফেজ প্লেটে সারিবদ্ধ হয়। |
-| Anaphase | Sister chromatids separate and move to opposite poles. | সিস্টার ক্রোমাটিড আলাদা হয়ে বিপরীত মেরুতে সরে যায়। |
-| Telophase | Nuclear membranes reform and chromosomes begin to uncoil. | নতুন নিউক্লিয়ার ঝিল্লি তৈরি হয় এবং ক্রোমোজোম আলগা হতে শুরু করে। |
-| Cytokinesis | Cytoplasm splits and two identical diploid cells are produced. | সাইটোপ্লাজম ভাগ হয়ে দুটি অভিন্ন ডিপ্লয়েড কোষ তৈরি হয়। |
+| Stage       | English                                                                                    | বাংলা                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Prophase    | Chromatin condenses into visible chromosomes; nuclear membrane breaks down; spindle forms. | ক্রোমাটিন দৃশ্যমান ক্রোমোজোমে পরিণত হয়; নিউক্লিয়ার ঝিল্লি ভেঙে যায়; স্পিন্ডল তৈরি হয়। |
+| Metaphase   | Chromosomes line up at the equator or metaphase plate.                                     | ক্রোমোজোম কোষের মাঝখানে বা মেটাফেজ প্লেটে সারিবদ্ধ হয়।                                |
+| Anaphase    | Sister chromatids separate and move to opposite poles.                                     | সিস্টার ক্রোমাটিড আলাদা হয়ে বিপরীত মেরুতে সরে যায়।                                    |
+| Telophase   | Nuclear membranes reform and chromosomes begin to uncoil.                                  | নতুন নিউক্লিয়ার ঝিল্লি তৈরি হয় এবং ক্রোমোজোম আলগা হতে শুরু করে।                       |
+| Cytokinesis | Cytoplasm splits and two identical diploid cells are produced.                             | সাইটোপ্লাজম ভাগ হয়ে দুটি অভিন্ন ডিপ্লয়েড কোষ তৈরি হয়।                                 |
 
 ### Importance of Mitosis
 
-| English | বাংলা |
-| --- | --- |
-| Helps body growth from embryo to adult. | ভ্রূণ থেকে পূর্ণবয়স্ক হওয়া পর্যন্ত দেহের বৃদ্ধি ঘটায়। |
-| Replaces worn-out or damaged cells. | পুরোনো বা ক্ষতিগ্রস্ত কোষের পরিবর্তে নতুন কোষ তৈরি করে। |
-| Maintains chromosome number in somatic cells. | দেহকোষে ক্রোমোজোম সংখ্যা অপরিবর্তিত রাখে। |
+| English                                       | বাংলা                                                   |
+| --------------------------------------------- | ------------------------------------------------------- |
+| Helps body growth from embryo to adult.       | ভ্রূণ থেকে পূর্ণবয়স্ক হওয়া পর্যন্ত দেহের বৃদ্ধি ঘটায়।   |
+| Replaces worn-out or damaged cells.           | পুরোনো বা ক্ষতিগ্রস্ত কোষের পরিবর্তে নতুন কোষ তৈরি করে। |
+| Maintains chromosome number in somatic cells. | দেহকোষে ক্রোমোজোম সংখ্যা অপরিবর্তিত রাখে।               |
 
 ## 4) Meiosis
 
-| Feature | English | বাংলা |
-| --- | --- | --- |
-| Definition | Meiosis is a reduction division that produces haploid gametes from a diploid parent cell. | মিয়োসিস হলো হ্রাসমূলক বিভাজন যা ডিপ্লয়েড জনক কোষ থেকে হ্যাপ্লয়েড গ্যামেট তৈরি করে। |
-| Number of divisions | Two divisions occur: Meiosis I and Meiosis II. | দুটি বিভাজন ঘটে: মিয়োসিস I ও মিয়োসিস II। |
-| Result | Four daughter cells are produced. | চারটি অপত্য কোষ তৈরি হয়। |
-| Chromosome number | Chromosome number becomes half of the parent cell. | ক্রোমোজোম সংখ্যা জনক কোষের অর্ধেক হয়ে যায়। |
-| Role | Essential for sexual reproduction and variation. | যৌন জনন ও বৈচিত্র্যের জন্য অপরিহার্য। |
+| Feature             | English                                                                                   | বাংলা                                                                              |
+| ------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Definition          | Meiosis is a reduction division that produces haploid gametes from a diploid parent cell. | মিয়োসিস হলো হ্রাসমূলক বিভাজন যা ডিপ্লয়েড জনক কোষ থেকে হ্যাপ্লয়েড গ্যামেট তৈরি করে। |
+| Number of divisions | Two divisions occur: Meiosis I and Meiosis II.                                            | দুটি বিভাজন ঘটে: মিয়োসিস I ও মিয়োসিস II।                                           |
+| Result              | Four daughter cells are produced.                                                         | চারটি অপত্য কোষ তৈরি হয়।                                                           |
+| Chromosome number   | Chromosome number becomes half of the parent cell.                                        | ক্রোমোজোম সংখ্যা জনক কোষের অর্ধেক হয়ে যায়।                                         |
+| Role                | Essential for sexual reproduction and variation.                                          | যৌন জনন ও বৈচিত্র্যের জন্য অপরিহার্য।                                              |
 
 ### Mitosis vs Meiosis
 
-| Feature | Mitosis | Meiosis |
-| --- | --- | --- |
-| Number of divisions | 1 | 2 |
-| Daughter cells | 2 | 4 |
-| Chromosome number | Same as parent | Half of parent |
-| Genetic similarity | Identical | Non-identical |
-| Main purpose | Growth and repair | Gamete formation |
+| Feature             | Mitosis           | Meiosis          |
+| ------------------- | ----------------- | ---------------- |
+| Number of divisions | 1                 | 2                |
+| Daughter cells      | 2                 | 4                |
+| Chromosome number   | Same as parent    | Half of parent   |
+| Genetic similarity  | Identical         | Non-identical    |
+| Main purpose        | Growth and repair | Gamete formation |
 
 ## 5) Binary Fission and Asexual Reproduction
 
-| Topic | English Explanation | বাংলা ব্যাখ্যা |
-| --- | --- | --- |
-| Binary fission | In bacteria, the circular chromosome replicates, the cell elongates, and it splits into two identical cells. | ব্যাকটেরিয়ায় বৃত্তাকার ক্রোমোজোম অনুলিপি হয়, কোষ লম্বা হয় এবং শেষে দুটি অভিন্ন কোষে বিভক্ত হয়। |
-| Budding | A small outgrowth develops on the parent and later detaches. | জনক দেহে একটি ছোট কুঁড়ি তৈরি হয় এবং পরে আলাদা হয়ে যায়। |
-| Regeneration | A complete organism develops from part of the parent body. | জনক দেহের একটি অংশ থেকে সম্পূর্ণ জীব তৈরি হয়। |
-| Spore formation | Specialized spores are produced and develop into new individuals. | বিশেষ স্পোর তৈরি হয় যা থেকে নতুন জীব জন্মায়। |
-| Vegetative reproduction | New plants arise from runners, tubers, bulbs, or stems. | রানার, কন্দ, বাল্ব বা কাণ্ড থেকে নতুন উদ্ভিদ জন্মায়। |
-| Parthenogenesis | An individual develops from an unfertilized egg. | নিষিক্ত না হওয়া ডিম থেকে নতুন জীব জন্মায়। |
+| Topic                   | English Explanation                                                                                          | বাংলা ব্যাখ্যা                                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Binary fission          | In bacteria, the circular chromosome replicates, the cell elongates, and it splits into two identical cells. | ব্যাকটেরিয়ায় বৃত্তাকার ক্রোমোজোম অনুলিপি হয়, কোষ লম্বা হয় এবং শেষে দুটি অভিন্ন কোষে বিভক্ত হয়। |
+| Budding                 | A small outgrowth develops on the parent and later detaches.                                                 | জনক দেহে একটি ছোট কুঁড়ি তৈরি হয় এবং পরে আলাদা হয়ে যায়।                                         |
+| Regeneration            | A complete organism develops from part of the parent body.                                                   | জনক দেহের একটি অংশ থেকে সম্পূর্ণ জীব তৈরি হয়।                                                  |
+| Spore formation         | Specialized spores are produced and develop into new individuals.                                            | বিশেষ স্পোর তৈরি হয় যা থেকে নতুন জীব জন্মায়।                                                   |
+| Vegetative reproduction | New plants arise from runners, tubers, bulbs, or stems.                                                      | রানার, কন্দ, বাল্ব বা কাণ্ড থেকে নতুন উদ্ভিদ জন্মায়।                                           |
+| Parthenogenesis         | An individual develops from an unfertilized egg.                                                             | নিষিক্ত না হওয়া ডিম থেকে নতুন জীব জন্মায়।                                                      |
 
 ## 6) Side Notes, Shortcuts, and Common Mistakes
 
@@ -167,9 +167,9 @@ Final answer: Each daughter cell will have 23 chromosomes.
 
 ## 9) Quick Revision Snapshot
 
-| English | বাংলা |
-| --- | --- |
-| Interphase prepares the cell for division. | ইন্টারফেজ কোষকে বিভাজনের জন্য প্রস্তুত করে। |
-| Mitosis is for growth and repair. | মাইটোসিস বৃদ্ধি ও মেরামতের জন্য। |
-| Meiosis is for gamete formation. | মিয়োসিস গ্যামেট তৈরির জন্য। |
+| English                                                     | বাংলা                                                 |
+| ----------------------------------------------------------- | ----------------------------------------------------- |
+| Interphase prepares the cell for division.                  | ইন্টারফেজ কোষকে বিভাজনের জন্য প্রস্তুত করে।           |
+| Mitosis is for growth and repair.                           | মাইটোসিস বৃদ্ধি ও মেরামতের জন্য।                      |
+| Meiosis is for gamete formation.                            | মিয়োসিস গ্যামেট তৈরির জন্য।                           |
 | Binary fission is the simplest prokaryotic division method. | বাইনারি ফিশন প্রোক্যারিওটের সবচেয়ে সহজ বিভাজন পদ্ধতি। |
