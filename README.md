@@ -32,9 +32,9 @@ Easy-to-understand answers for every lecture topic, written in simple words with
 
 ## 🎯 Practice Quizzes
 
-| Quiz                  | Topics                               | Questions                 | Link                                 |
-| --------------------- | ------------------------------------ | ------------------------- | ------------------------------------ |
-| **Quiz 1: Lec 16–18** | Digestion, Circulatory System, Blood | 190 MCQs (answers inline) | [📝 Take Quiz](Lec-16-17-18-Quiz.md) |
+| Quiz                  | Topics                                                                  | Questions                 | Link                                  |
+| --------------------- | ----------------------------------------------------------------------- | ------------------------- | ------------------------------------- |
+| **Quiz 1: Lec 16–18** | Digestion, Circulatory System, Blood                                    | 190 MCQs (answers inline) | [📝 Take Quiz](Lec-16-17-18-Quiz.md)  |
 | **Quiz 2: Lec 13–22** | Cell Cycle, Homeostasis, Respiratory System, Diabetes, Food & Nutrition | 148 MCQs (answers inline) | [📝 Take Quiz](Lec-13-22-MCQ-Quiz.md) |
 
 ---
